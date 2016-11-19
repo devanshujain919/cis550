@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/devanshujain919/cis550/issues"
   },
-  "homepage": "https://github.com/devanshujain919/cis550#readme"
+  "homepage": "https://github.com/devanshujain919/cis550#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
