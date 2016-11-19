@@ -1,25 +1,16 @@
 {
-  "name": "node-project",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "MyAppNode",
+  "version": "0.0.1",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/devanshujain919/cis550.git"
-  },
-  "keywords": [
-    "olympics"
-  ],
-  "author": "Devanshu Jain",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/devanshujain919/cis550/issues"
-  },
-  "homepage": "https://github.com/devanshujain919/cis550#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "3.2.6",
+    "jade": "*",
+    "jade-bootstrap" : "*",
+    "stylus": "*",
+    "nib": "*",
+    "mysql" : "*"
   }
 }
