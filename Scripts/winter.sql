@@ -1,0 +1,14 @@
+UPDATE temp SET Country='Norway', City='Oslo' WHERE Year=1952;
+UPDATE temp SET Country='United States', City='Squaw Valley' WHERE Year=1960;
+UPDATE temp SET Country='Austria', City='Innsbruck' WHERE Year=1964;
+UPDATE temp SET Country='France', City='Grenoble' WHERE Year=1968;
+UPDATE temp SET Country='Japan', City='Sapporo' WHERE Year=1972;
+UPDATE temp SET Country='Austria', City='Innsbruck' WHERE Year=1976;
+UPDATE temp SET Country='United States', City='Lake Placid' WHERE Year=1980;
+UPDATE temp SET Country='Yugoslavia', City='Sarajevo' WHERE Year=1984;
+UPDATE temp SET Country='Canada', City='Calgary' WHERE Year=1988;
+UPDATE temp SET Country='France', City='Albertville' WHERE Year=1992;
+UPDATE temp SET Country='Norway', City='Lillehammer' WHERE Year=1994;
+UPDATE temp SET Country='Japan', City='Nagano' WHERE Year=1998;
+UPDATE temp SET Country='United States', City='Salt Lake City' WHERE Year=2002;
+UPDATE temp SET Country='Italy', City='Turin' WHERE Year=2006;
