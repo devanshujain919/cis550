@@ -21,7 +21,10 @@ var app = express();
 init_app(app);
 
 // When we get a request for {app}/ we should call routes/index.js
+
 app.get('/', routes.do_work);
+
+//app.get('/', routes.do_work);
 app.get('/reference', routes.do_ref);
 // when we get a request for {app/person} we should call routes/person.js
 app.get('/person', person.do_work);
@@ -48,7 +51,8 @@ function init_app() {
 	
 	// Use Jade to do views
 	app.set('views', __dirname + '/views');
-	app.set('view engine', 'jade');
+	app.engine('html', require('ejs').renderFile);
+	app.set('view engine', 'html');
 
 	app.use(express.favicon());
 	// Set the express logger: log to the console in dev mode
