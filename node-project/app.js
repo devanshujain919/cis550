@@ -7,6 +7,7 @@
  */
 var express = require('express')
   , routes = require('./routes')
+  , search = require('./routes/search')
   , person = require('./routes/person')
   , your_work = require('./routes/your-work')
   , http = require('http')
@@ -29,6 +30,10 @@ app.get('/reference', routes.do_ref);
 // when we get a request for {app/person} we should call routes/person.js
 app.get('/person', person.do_work);
 app.get('/your-work', your_work.do_work);
+
+app.get('/search/sports', search.do_ref);
+
+app.get('/search/players', search.do_work);
 
 // Listen on the port we specify
 http.createServer(app).listen(app.get('port'), function(){
