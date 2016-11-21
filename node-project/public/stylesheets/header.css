@@ -1,0 +1,45 @@
+* {
+  font-family: Raleway, sans-serif;
+}
+
+.navbar{
+  background-color: #ffffff;
+}
+
+.navbar-right{
+  margin-right: 0px !important;
+}
+
+#olympics-logo-small{
+  background: url('../assets/images/olympics-logo.svg') no-repeat;
+  background-size: contain;
+  border-radius: 10px;
+  width: 50px;
+  height: 30px;
+  margin: 10px 0px 0px 15px;
+}
+
+.navbar-brand a:hover{
+  text-decoration: none;
+}
+
+.navbar-right{
+  font-size: 15px;
+}
+
+i{
+  margin-right: 10px;
+}
+
+.dropdown-menu{
+  min-width: 150px;
+}
+
+.dropdown-menu li{
+  height: 30px;
+}
+
+.dropdown-menu > li > a:hover{
+  background-color: #f0f0f0;
+  color: #000000;
+}

@@ -1,0 +1,31 @@
+#main-content{
+  padding-top: 50px; 
+  margin: 0;
+  width: 100%;
+  border: none;
+}
+
+#olympics-logo-large{
+  background: url('../assets/images/olympics-logo.svg') no-repeat;
+  background-size: contain;
+  margin: 0;
+  padding-top: 120px;
+  width: 200px;
+}
+
+.jumbotron{
+  position: fixed;
+  width:100%;
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  background-color: #E74C3C;
+}
+
+#title-content{
+  margin-left:auto;
+  margin-right:auto;
+  height:auto;
+  width:auto;
+}

@@ -52,7 +52,7 @@ function init_app() {
 	// Use Jade to do views
 	app.set('views', __dirname + '/views');
 	app.engine('html', require('ejs').renderFile);
-	app.set('view engine', 'html');
+	app.set('view engine', 'ejs');
 
 	app.use(express.favicon());
 	// Set the express logger: log to the console in dev mode
