@@ -6,14 +6,14 @@
  * Module dependencies.
  */
 var express = require('express')
-  , routes = require('./routes')
+  , routes = require('./routes/index')
   , search = require('./routes/search')
-  , person = require('./routes/person')
-  , your_work = require('./routes/your-work')
+  , players_info = require('./routes/players_info')
   , http = require('http')
   , path = require('path')
   , stylus = require("stylus")
   , nib = require("nib")
+  , bodyParser = require('body-parser')
 ;
 
 // Initialize express
@@ -23,17 +23,14 @@ init_app(app);
 
 // When we get a request for {app}/ we should call routes/index.js
 
-app.get('/', routes.do_work);
+app.get('/', routes.home);
 
-//app.get('/', routes.do_work);
-app.get('/reference', routes.do_ref);
-// when we get a request for {app/person} we should call routes/person.js
-app.get('/person', person.do_work);
-app.get('/your-work', your_work.do_work);
+app.get('/search/sports', search.search_sports);
 
-app.get('/search/sports', search.do_ref);
+app.get('/search/players', search.search_players);
+app.post('/search/players', search.query_players);
 
-app.get('/search/players', search.do_work);
+app.post('/players', players_info.players_info);
 
 // Listen on the port we specify
 http.createServer(app).listen(app.get('port'), function(){

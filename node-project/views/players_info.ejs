@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <% include head %>
+        <link href="/stylesheets/players_info.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <header>
+            <% include header %>
+        </header>
+
+        <div id="main-content">
+            <% if(is_result) {%>
+                <% if("Images" in result) {%>
+                    <% for (var i = 0 ; i < result.Images.length ; i++) { %>
+                        <img src='<%= result.Images[i] %>'>
+                    <% } %>
+                <% } %>
+                <% if("info" in result) {%>
+                    <% if("summary" in result.info) {%>
+                        <h3>Summary</h3>
+                        <p><%=result.info.summary%></p>
+                    <% } %>
+                <% } %>
+                <h3>Participations</h3>
+                <% if("Participations" in result) {%>
+                    <ul>
+                        <% for (var i = 0 ; i < result.Participations.length ; i++) { %>
+                            <li><%= result.Participations[i] %></li>
+                        <% } %>
+                    </ul>
+                <% } %>
+                <% if("Occupation" in result) {%>
+                    <h3>Occupations</h3>
+                    <% for (var i = 0 ; i < result.Occupation.length ; i++) { %>
+                        <%= result.Occupation[i] %><br>
+                    <% } %>
+                <% } %>
+                <% if("Date of Birth (dd-mm-yyyy)" in result) {%>
+                    <h3>Date of Birth</h3>
+                    <%= result['Date of Birth (dd-mm-yyyy)'] %>
+                <% } %>
+                <% if("name" in result['_id']) {%>
+                    <h3>Name</h3>
+                    <%= result['_id']['name'] %>
+                <% } %>
+                <% if("country" in result['_id']) {%>
+                    <h3>Country</h3>
+                    <%= result['_id']['country'] %>
+                <% } %>
+            <% } %>
+        </div>
+
+        <footer>
+            <% include footer %>
+            <script src="/javascript/players_info.js"></script>
+        </footer>
+    </body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <% include head %>
+        <link href="/stylesheets/players.css" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <header>
+            <% include header %>
+        </header>
+
+        <div id="main-content">
+            <form action="/search/players" method="post">
+				Players' Name: <input type="text" name="pname"><br>
+                Country: <input type="text" name="pcountry"><br>
+				<input type="submit" value="Submit">
+			</form>
+            <table>
+                <% if (is_result) {%>
+                    <% for(var i=0; i < result.length; i++) { %>
+                        <tr class="clickable-row" data-name='<%= result[i]._id.name %>' data-country='<%= result[i]._id.country%>'>
+                            <td><%= result[i]._id.name %></td>
+                            <td> &nbsp; </td>
+                            <td><%= result[i]._id.country %></td>
+                        </tr>
+                    <% } %>
+                <% } %>
+            </table>
+        </div>
+
+        <footer>
+            <% include footer %>
+            <script src="/javascript/players.js"></script>
+        </footer>
+
+    </body>
+</html>
