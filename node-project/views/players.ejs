@@ -17,17 +17,17 @@
                 Country: <input type="text" name="pcountry"><br>
 				<input type="submit" value="Submit">
 			</form>
-            <table>
-                <% if (is_result) {%>
+            <% if (is_result) {%>
+                <table>
                     <% for(var i=0; i < result.length; i++) { %>
-                        <tr class="clickable-row" data-name='<%= result[i]._id.name %>' data-country='<%= result[i]._id.country%>'>
-                            <td><%= result[i]._id.name %></td>
+                        <tr class="clickable-row" data-name='<%= result[i].Name %>' data-country='<%= result[i].Country%>'>
+                            <td><%= result[i].Name %></td>
                             <td> &nbsp; </td>
-                            <td><%= result[i]._id.country %></td>
+                            <td><%= result[i].Country %></td>
                         </tr>
                     <% } %>
-                <% } %>
-            </table>
+                </table>
+            <% } %>
         </div>
 
         <footer>

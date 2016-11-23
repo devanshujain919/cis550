@@ -1,0 +1,6662 @@
+{
+    "1896": {
+        "Australia": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Austria": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Denmark": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "France": {
+            "bronze": 2, 
+            "gold": 5, 
+            "silver": 4, 
+            "total": 11
+        }, 
+        "Germany (until 1912)": {
+            "bronze": 2, 
+            "gold": 6, 
+            "silver": 5, 
+            "total": 13
+        }, 
+        "Greece": {
+            "bronze": 19, 
+            "gold": 10, 
+            "silver": 17, 
+            "total": 46
+        }, 
+        "Hungary": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "International Team": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Switzerland": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 3
+        }, 
+        "United Kingdom": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 7
+        }, 
+        "United States": {
+            "bronze": 2, 
+            "gold": 11, 
+            "silver": 7, 
+            "total": 20
+        }
+    }, 
+    "1900": {
+        "Australia": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 5
+        }, 
+        "Austria": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Belgium": {
+            "bronze": 5, 
+            "gold": 6, 
+            "silver": 5, 
+            "total": 16
+        }, 
+        "Bohemia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "British India": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Canada": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Cuba": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Denmark": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "France": {
+            "bronze": 36, 
+            "gold": 28, 
+            "silver": 44, 
+            "total": 108
+        }, 
+        "Germany (until 1912)": {
+            "bronze": 2, 
+            "gold": 4, 
+            "silver": 2, 
+            "total": 8
+        }, 
+        "Hungary": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "International Team": {
+            "bronze": 3, 
+            "gold": 6, 
+            "silver": 3, 
+            "total": 12
+        }, 
+        "Italy (until 1946)": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Mexico": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Netherlands": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Norway": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Spain": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Sweden": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Switzerland": {
+            "bronze": 1, 
+            "gold": 6, 
+            "silver": 2, 
+            "total": 9
+        }, 
+        "United Kingdom": {
+            "bronze": 9, 
+            "gold": 16, 
+            "silver": 6, 
+            "total": 31
+        }, 
+        "United States": {
+            "bronze": 15, 
+            "gold": 19, 
+            "silver": 14, 
+            "total": 48
+        }
+    }, 
+    "1904": {
+        "Austria": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Canada": {
+            "bronze": 1, 
+            "gold": 4, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "Cuba": {
+            "bronze": 3, 
+            "gold": 4, 
+            "silver": 2, 
+            "total": 9
+        }, 
+        "Germany (until 1912)": {
+            "bronze": 5, 
+            "gold": 4, 
+            "silver": 4, 
+            "total": 13
+        }, 
+        "Greece": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Hungary": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "International Team": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Switzerland": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "United Kingdom": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "United States": {
+            "bronze": 79, 
+            "gold": 78, 
+            "silver": 82, 
+            "total": 239
+        }
+    }, 
+    "1908": {
+        "Australia": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Austria": {
+            "bronze": 3, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 9
+        }, 
+        "Belgium": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "Bohemia": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Canada": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Denmark": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "Finland": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "France": {
+            "bronze": 16, 
+            "gold": 15, 
+            "silver": 9, 
+            "total": 40
+        }, 
+        "Germany (until 1912)": {
+            "bronze": 5, 
+            "gold": 4, 
+            "silver": 6, 
+            "total": 15
+        }, 
+        "Greece": {
+            "bronze": 13, 
+            "gold": 8, 
+            "silver": 13, 
+            "total": 34
+        }, 
+        "Hungary": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 5, 
+            "total": 10
+        }, 
+        "International Team": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Italy (until 1946)": {
+            "bronze": 3, 
+            "gold": 7, 
+            "silver": 6, 
+            "total": 16
+        }, 
+        "Netherlands": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Norway": {
+            "bronze": 1, 
+            "gold": 4, 
+            "silver": 2, 
+            "total": 7
+        }, 
+        "Sweden": {
+            "bronze": 7, 
+            "gold": 2, 
+            "silver": 5, 
+            "total": 14
+        }, 
+        "Switzerland": {
+            "bronze": 4, 
+            "gold": 5, 
+            "silver": 6, 
+            "total": 15
+        }, 
+        "United Kingdom": {
+            "bronze": 5, 
+            "gold": 8, 
+            "silver": 11, 
+            "total": 24
+        }, 
+        "United States": {
+            "bronze": 6, 
+            "gold": 12, 
+            "silver": 6, 
+            "total": 24
+        }
+    }, 
+    "1912": {
+        "Australasia (until 1920)": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Austria": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Belgium": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 5, 
+            "total": 8
+        }, 
+        "Bohemia": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Canada": {
+            "bronze": 10, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 16
+        }, 
+        "Denmark": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Finland": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "France": {
+            "bronze": 9, 
+            "gold": 5, 
+            "silver": 5, 
+            "total": 19
+        }, 
+        "Germany (until 1912)": {
+            "bronze": 6, 
+            "gold": 3, 
+            "silver": 5, 
+            "total": 14
+        }, 
+        "Greece": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 3
+        }, 
+        "Hungary": {
+            "bronze": 2, 
+            "gold": 3, 
+            "silver": 4, 
+            "total": 9
+        }, 
+        "Italy (until 1946)": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Netherlands": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Norway": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 8
+        }, 
+        "Russia": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 3
+        }, 
+        "South Africa (until 1960)": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Sweden": {
+            "bronze": 11, 
+            "gold": 8, 
+            "silver": 6, 
+            "total": 25
+        }, 
+        "United Kingdom": {
+            "bronze": 38, 
+            "gold": 56, 
+            "silver": 51, 
+            "total": 145
+        }, 
+        "United States": {
+            "bronze": 12, 
+            "gold": 23, 
+            "silver": 12, 
+            "total": 47
+        }
+    }, 
+    "1916": {
+        "Australasia (until 1920)": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 7
+        }, 
+        "Austria": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Belgium": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "Canada": {
+            "bronze": 3, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 8
+        }, 
+        "Denmark": {
+            "bronze": 5, 
+            "gold": 1, 
+            "silver": 6, 
+            "total": 12
+        }, 
+        "Finland": {
+            "bronze": 9, 
+            "gold": 9, 
+            "silver": 8, 
+            "total": 26
+        }, 
+        "France": {
+            "bronze": 3, 
+            "gold": 8, 
+            "silver": 5, 
+            "total": 16
+        }, 
+        "Germany (until 1912)": {
+            "bronze": 7, 
+            "gold": 5, 
+            "silver": 13, 
+            "total": 25
+        }, 
+        "Greece": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Hungary": {
+            "bronze": 3, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 8
+        }, 
+        "Italy (until 1946)": {
+            "bronze": 2, 
+            "gold": 5, 
+            "silver": 1, 
+            "total": 8
+        }, 
+        "Netherlands": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Norway": {
+            "bronze": 4, 
+            "gold": 4, 
+            "silver": 1, 
+            "total": 9
+        }, 
+        "Russia": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "South Africa (until 1960)": {
+            "bronze": 0, 
+            "gold": 4, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "Sweden": {
+            "bronze": 17, 
+            "gold": 24, 
+            "silver": 24, 
+            "total": 65
+        }, 
+        "Switzerland": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "United Kingdom": {
+            "bronze": 16, 
+            "gold": 10, 
+            "silver": 15, 
+            "total": 41
+        }, 
+        "United States": {
+            "bronze": 19, 
+            "gold": 26, 
+            "silver": 19, 
+            "total": 64
+        }
+    }, 
+    "1920": {
+        "Australia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 3
+        }, 
+        "Belgium": {
+            "bronze": 14, 
+            "gold": 16, 
+            "silver": 12, 
+            "total": 42
+        }, 
+        "Brazil": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Canada": {
+            "bronze": 3, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 9
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Denmark": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 9, 
+            "total": 13
+        }, 
+        "Estonia": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 3
+        }, 
+        "Finland": {
+            "bronze": 9, 
+            "gold": 15, 
+            "silver": 10, 
+            "total": 34
+        }, 
+        "France": {
+            "bronze": 13, 
+            "gold": 9, 
+            "silver": 20, 
+            "total": 42
+        }, 
+        "Greece": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Italy (until 1946)": {
+            "bronze": 5, 
+            "gold": 14, 
+            "silver": 6, 
+            "total": 25
+        }, 
+        "Japan": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Luxembourg": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Netherlands": {
+            "bronze": 5, 
+            "gold": 4, 
+            "silver": 2, 
+            "total": 11
+        }, 
+        "New Zealand": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Norway": {
+            "bronze": 9, 
+            "gold": 13, 
+            "silver": 10, 
+            "total": 32
+        }, 
+        "South Africa (until 1960)": {
+            "bronze": 3, 
+            "gold": 3, 
+            "silver": 4, 
+            "total": 10
+        }, 
+        "Spain": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Sweden": {
+            "bronze": 24, 
+            "gold": 19, 
+            "silver": 20, 
+            "total": 63
+        }, 
+        "Switzerland": {
+            "bronze": 7, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 11
+        }, 
+        "United Kingdom": {
+            "bronze": 13, 
+            "gold": 15, 
+            "silver": 16, 
+            "total": 44
+        }, 
+        "United States": {
+            "bronze": 27, 
+            "gold": 41, 
+            "silver": 27, 
+            "total": 95
+        }
+    }, 
+    "1924": {
+        "Argentina": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Australia": {
+            "bronze": 2, 
+            "gold": 3, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "Austria": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 4
+        }, 
+        "Belgium": {
+            "bronze": 3, 
+            "gold": 3, 
+            "silver": 7, 
+            "total": 13
+        }, 
+        "Canada": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 4
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 5, 
+            "gold": 1, 
+            "silver": 4, 
+            "total": 10
+        }, 
+        "Denmark": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 6, 
+            "total": 11
+        }, 
+        "Estonia": {
+            "bronze": 4, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "Finland": {
+            "bronze": 10, 
+            "gold": 14, 
+            "silver": 13, 
+            "total": 37
+        }, 
+        "France": {
+            "bronze": 12, 
+            "gold": 14, 
+            "silver": 15, 
+            "total": 41
+        }, 
+        "Greece": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Haiti": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Hungary": {
+            "bronze": 4, 
+            "gold": 2, 
+            "silver": 4, 
+            "total": 10
+        }, 
+        "Ireland": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Italy (until 1946)": {
+            "bronze": 5, 
+            "gold": 8, 
+            "silver": 3, 
+            "total": 16
+        }, 
+        "Japan": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Luxembourg": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Monaco": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Netherlands": {
+            "bronze": 6, 
+            "gold": 4, 
+            "silver": 1, 
+            "total": 11
+        }, 
+        "New Zealand": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Norway": {
+            "bronze": 3, 
+            "gold": 5, 
+            "silver": 2, 
+            "total": 10
+        }, 
+        "Poland": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Portugal": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Romania": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "South Africa (until 1960)": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Sweden": {
+            "bronze": 12, 
+            "gold": 4, 
+            "silver": 13, 
+            "total": 29
+        }, 
+        "Switzerland": {
+            "bronze": 10, 
+            "gold": 7, 
+            "silver": 8, 
+            "total": 25
+        }, 
+        "United Kingdom": {
+            "bronze": 12, 
+            "gold": 10, 
+            "silver": 14, 
+            "total": 36
+        }, 
+        "United States": {
+            "bronze": 27, 
+            "gold": 45, 
+            "silver": 27, 
+            "total": 99
+        }, 
+        "Uruguay": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 2
+        }
+    }, 
+    "1928": {
+        "Argentina": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 7
+        }, 
+        "Australia": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Austria": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 0, 
+            "total": 4
+        }, 
+        "Belgium": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "British India": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Canada": {
+            "bronze": 7, 
+            "gold": 4, 
+            "silver": 4, 
+            "total": 15
+        }, 
+        "Chile": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 5, 
+            "total": 9
+        }, 
+        "Denmark": {
+            "bronze": 4, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 9
+        }, 
+        "Egypt": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Estonia": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Finland": {
+            "bronze": 9, 
+            "gold": 8, 
+            "silver": 8, 
+            "total": 25
+        }, 
+        "France": {
+            "bronze": 6, 
+            "gold": 7, 
+            "silver": 12, 
+            "total": 25
+        }, 
+        "Germany": {
+            "bronze": 19, 
+            "gold": 11, 
+            "silver": 9, 
+            "total": 39
+        }, 
+        "Haiti": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Hungary": {
+            "bronze": 0, 
+            "gold": 5, 
+            "silver": 5, 
+            "total": 10
+        }, 
+        "Ireland": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Italy (until 1946)": {
+            "bronze": 7, 
+            "gold": 7, 
+            "silver": 6, 
+            "total": 20
+        }, 
+        "Japan": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Luxembourg": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Netherlands": {
+            "bronze": 5, 
+            "gold": 8, 
+            "silver": 10, 
+            "total": 23
+        }, 
+        "New Zealand": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Norway": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Philippines": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Poland": {
+            "bronze": 4, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 7
+        }, 
+        "Portugal": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "South Africa (until 1960)": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Spain": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Sweden": {
+            "bronze": 12, 
+            "gold": 7, 
+            "silver": 6, 
+            "total": 25
+        }, 
+        "Switzerland": {
+            "bronze": 4, 
+            "gold": 7, 
+            "silver": 6, 
+            "total": 17
+        }, 
+        "United Kingdom": {
+            "bronze": 7, 
+            "gold": 4, 
+            "silver": 11, 
+            "total": 22
+        }, 
+        "United States": {
+            "bronze": 16, 
+            "gold": 22, 
+            "silver": 18, 
+            "total": 56
+        }, 
+        "Uruguay": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 5
+        }
+    }, 
+    "1932": {
+        "Argentina": {
+            "bronze": 0, 
+            "gold": 3, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Australia": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Austria": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Belgium": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "British India": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Canada": {
+            "bronze": 9, 
+            "gold": 2, 
+            "silver": 5, 
+            "total": 16
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Denmark": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 5, 
+            "total": 8
+        }, 
+        "Finland": {
+            "bronze": 12, 
+            "gold": 5, 
+            "silver": 8, 
+            "total": 25
+        }, 
+        "France": {
+            "bronze": 4, 
+            "gold": 11, 
+            "silver": 5, 
+            "total": 20
+        }, 
+        "Germany": {
+            "bronze": 7, 
+            "gold": 5, 
+            "silver": 12, 
+            "total": 24
+        }, 
+        "Hungary": {
+            "bronze": 5, 
+            "gold": 6, 
+            "silver": 5, 
+            "total": 16
+        }, 
+        "Ireland": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Italy (until 1946)": {
+            "bronze": 12, 
+            "gold": 12, 
+            "silver": 12, 
+            "total": 36
+        }, 
+        "Japan": {
+            "bronze": 4, 
+            "gold": 7, 
+            "silver": 7, 
+            "total": 18
+        }, 
+        "Latvia": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Mexico": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Netherlands": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 5, 
+            "total": 8
+        }, 
+        "New Zealand": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Philippines": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Poland": {
+            "bronze": 4, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 9
+        }, 
+        "South Africa (until 1960)": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 5
+        }, 
+        "Spain": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Sweden": {
+            "bronze": 9, 
+            "gold": 10, 
+            "silver": 5, 
+            "total": 24
+        }, 
+        "Switzerland": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "United Kingdom": {
+            "bronze": 5, 
+            "gold": 5, 
+            "silver": 7, 
+            "total": 17
+        }, 
+        "United States": {
+            "bronze": 30, 
+            "gold": 44, 
+            "silver": 36, 
+            "total": 110
+        }, 
+        "Uruguay": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }
+    }, 
+    "1936": {
+        "Argentina": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 7
+        }, 
+        "Australia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Austria": {
+            "bronze": 5, 
+            "gold": 5, 
+            "silver": 7, 
+            "total": 17
+        }, 
+        "Belgium": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "British India": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Canada": {
+            "bronze": 5, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 9
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 5, 
+            "total": 9
+        }, 
+        "Denmark": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Egypt": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Estonia": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 7
+        }, 
+        "Finland": {
+            "bronze": 6, 
+            "gold": 8, 
+            "silver": 6, 
+            "total": 20
+        }, 
+        "France": {
+            "bronze": 6, 
+            "gold": 7, 
+            "silver": 6, 
+            "total": 19
+        }, 
+        "Germany": {
+            "bronze": 32, 
+            "gold": 38, 
+            "silver": 31, 
+            "total": 101
+        }, 
+        "Hungary": {
+            "bronze": 5, 
+            "gold": 10, 
+            "silver": 1, 
+            "total": 16
+        }, 
+        "Italy (until 1946)": {
+            "bronze": 5, 
+            "gold": 9, 
+            "silver": 13, 
+            "total": 27
+        }, 
+        "Japan": {
+            "bronze": 10, 
+            "gold": 6, 
+            "silver": 4, 
+            "total": 20
+        }, 
+        "Latvia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Mexico": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Netherlands": {
+            "bronze": 7, 
+            "gold": 6, 
+            "silver": 4, 
+            "total": 17
+        }, 
+        "New Zealand": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Norway": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Philippines": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Poland": {
+            "bronze": 5, 
+            "gold": 0, 
+            "silver": 4, 
+            "total": 9
+        }, 
+        "Portugal": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Romania": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "South Africa (until 1960)": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Sweden": {
+            "bronze": 10, 
+            "gold": 6, 
+            "silver": 5, 
+            "total": 21
+        }, 
+        "Switzerland": {
+            "bronze": 5, 
+            "gold": 4, 
+            "silver": 9, 
+            "total": 18
+        }, 
+        "Turkey": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "United Kingdom": {
+            "bronze": 3, 
+            "gold": 4, 
+            "silver": 7, 
+            "total": 14
+        }, 
+        "United States": {
+            "bronze": 12, 
+            "gold": 24, 
+            "silver": 21, 
+            "total": 57
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }
+    }, 
+    "1948": {
+        "Argentina": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 7
+        }, 
+        "Australia": {
+            "bronze": 5, 
+            "gold": 2, 
+            "silver": 6, 
+            "total": 13
+        }, 
+        "Austria": {
+            "bronze": 4, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 8
+        }, 
+        "Belgium": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 7
+        }, 
+        "Brazil": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Canada": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Cuba": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 3, 
+            "gold": 6, 
+            "silver": 2, 
+            "total": 11
+        }, 
+        "Denmark": {
+            "bronze": 9, 
+            "gold": 5, 
+            "silver": 8, 
+            "total": 22
+        }, 
+        "Egypt": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Finland": {
+            "bronze": 6, 
+            "gold": 10, 
+            "silver": 8, 
+            "total": 24
+        }, 
+        "France": {
+            "bronze": 15, 
+            "gold": 11, 
+            "silver": 6, 
+            "total": 32
+        }, 
+        "Hungary": {
+            "bronze": 12, 
+            "gold": 10, 
+            "silver": 5, 
+            "total": 27
+        }, 
+        "India": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Iran": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Ireland": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Italy": {
+            "bronze": 10, 
+            "gold": 9, 
+            "silver": 12, 
+            "total": 31
+        }, 
+        "Jamaica": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 3
+        }, 
+        "Mexico": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Netherlands": {
+            "bronze": 9, 
+            "gold": 5, 
+            "silver": 2, 
+            "total": 16
+        }, 
+        "Norway": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 7
+        }, 
+        "Panama": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Peru": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Poland": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Portugal": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Puerto Rico": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "South Africa (until 1960)": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "South Korea": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Spain": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Sri Lanka": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Sweden": {
+            "bronze": 18, 
+            "gold": 17, 
+            "silver": 11, 
+            "total": 46
+        }, 
+        "Switzerland": {
+            "bronze": 5, 
+            "gold": 5, 
+            "silver": 12, 
+            "total": 22
+        }, 
+        "Trinidad & Tobago": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Turkey": {
+            "bronze": 2, 
+            "gold": 6, 
+            "silver": 4, 
+            "total": 12
+        }, 
+        "United Kingdom": {
+            "bronze": 7, 
+            "gold": 4, 
+            "silver": 15, 
+            "total": 26
+        }, 
+        "United States": {
+            "bronze": 19, 
+            "gold": 38, 
+            "silver": 27, 
+            "total": 84
+        }, 
+        "Uruguay": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }
+    }, 
+    "1952": {
+        "Argentina": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Australia": {
+            "bronze": 3, 
+            "gold": 6, 
+            "silver": 2, 
+            "total": 11
+        }, 
+        "Austria": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Belgium": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Brazil": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Bulgaria": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Canada": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 3
+        }, 
+        "Chile": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 3, 
+            "gold": 7, 
+            "silver": 3, 
+            "total": 13
+        }, 
+        "Denmark": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "Egypt": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Finland": {
+            "bronze": 13, 
+            "gold": 6, 
+            "silver": 3, 
+            "total": 22
+        }, 
+        "France": {
+            "bronze": 6, 
+            "gold": 6, 
+            "silver": 6, 
+            "total": 18
+        }, 
+        "Germany": {
+            "bronze": 17, 
+            "gold": 0, 
+            "silver": 7, 
+            "total": 24
+        }, 
+        "Hungary": {
+            "bronze": 16, 
+            "gold": 16, 
+            "silver": 10, 
+            "total": 42
+        }, 
+        "India": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Iran": {
+            "bronze": 4, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 7
+        }, 
+        "Ireland": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Italy": {
+            "bronze": 4, 
+            "gold": 8, 
+            "silver": 9, 
+            "total": 21
+        }, 
+        "Jamaica": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 5
+        }, 
+        "Japan": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 6, 
+            "total": 9
+        }, 
+        "Lebanon": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Luxembourg": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Mexico": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Netherlands": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 5, 
+            "total": 5
+        }, 
+        "New Zealand": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Norway": {
+            "bronze": 0, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Poland": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Portugal": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Romania": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "South Africa (until 1960)": {
+            "bronze": 4, 
+            "gold": 2, 
+            "silver": 4, 
+            "total": 10
+        }, 
+        "South Korea": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Soviet Union": {
+            "bronze": 19, 
+            "gold": 22, 
+            "silver": 30, 
+            "total": 71
+        }, 
+        "Spain": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Sweden": {
+            "bronze": 10, 
+            "gold": 12, 
+            "silver": 13, 
+            "total": 35
+        }, 
+        "Switzerland": {
+            "bronze": 6, 
+            "gold": 2, 
+            "silver": 6, 
+            "total": 14
+        }, 
+        "Trinidad & Tobago": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Turkey": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "United Kingdom": {
+            "bronze": 8, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 11
+        }, 
+        "United States": {
+            "bronze": 17, 
+            "gold": 40, 
+            "silver": 19, 
+            "total": 76
+        }, 
+        "Uruguay": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Venezuela": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 3
+        }
+    }, 
+    "1956": {
+        "Argentina": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Australia": {
+            "bronze": 14, 
+            "gold": 13, 
+            "silver": 8, 
+            "total": 35
+        }, 
+        "Austria": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Bahamas": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Belgium": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Brazil": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Bulgaria": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 5
+        }, 
+        "Canada": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "Chile": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 4, 
+            "total": 6
+        }, 
+        "Denmark": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Finland": {
+            "bronze": 11, 
+            "gold": 3, 
+            "silver": 1, 
+            "total": 15
+        }, 
+        "France": {
+            "bronze": 6, 
+            "gold": 4, 
+            "silver": 4, 
+            "total": 14
+        }, 
+        "Germany": {
+            "bronze": 7, 
+            "gold": 6, 
+            "silver": 13, 
+            "total": 26
+        }, 
+        "Greece": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Hungary": {
+            "bronze": 7, 
+            "gold": 9, 
+            "silver": 10, 
+            "total": 26
+        }, 
+        "Iceland": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "India": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Iran": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Ireland": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Italy": {
+            "bronze": 9, 
+            "gold": 8, 
+            "silver": 8, 
+            "total": 25
+        }, 
+        "Japan": {
+            "bronze": 5, 
+            "gold": 4, 
+            "silver": 10, 
+            "total": 19
+        }, 
+        "Mexico": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "New Zealand": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Norway": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Pakistan": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Poland": {
+            "bronze": 4, 
+            "gold": 1, 
+            "silver": 4, 
+            "total": 9
+        }, 
+        "Romania": {
+            "bronze": 5, 
+            "gold": 5, 
+            "silver": 3, 
+            "total": 13
+        }, 
+        "South Africa (until 1960)": {
+            "bronze": 4, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 4
+        }, 
+        "South Korea": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Soviet Union": {
+            "bronze": 32, 
+            "gold": 37, 
+            "silver": 29, 
+            "total": 98
+        }, 
+        "Sweden": {
+            "bronze": 6, 
+            "gold": 8, 
+            "silver": 5, 
+            "total": 19
+        }, 
+        "Switzerland": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Turkey": {
+            "bronze": 2, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 7
+        }, 
+        "United Kingdom": {
+            "bronze": 11, 
+            "gold": 6, 
+            "silver": 7, 
+            "total": 24
+        }, 
+        "United States": {
+            "bronze": 17, 
+            "gold": 32, 
+            "silver": 25, 
+            "total": 74
+        }, 
+        "Uruguay": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 3
+        }
+    }, 
+    "1960": {
+        "Argentina": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Australia": {
+            "bronze": 6, 
+            "gold": 8, 
+            "silver": 8, 
+            "total": 22
+        }, 
+        "Austria": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Belgium": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Brazil": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "British West Indies": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Bulgaria": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 7
+        }, 
+        "Canada": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 3, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 8
+        }, 
+        "Denmark": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Egypt": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Ethiopia": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Finland": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "France": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Germany": {
+            "bronze": 11, 
+            "gold": 12, 
+            "silver": 19, 
+            "total": 42
+        }, 
+        "Ghana": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Greece": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Hungary": {
+            "bronze": 7, 
+            "gold": 6, 
+            "silver": 8, 
+            "total": 21
+        }, 
+        "India": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Iran": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Iraq": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Italy": {
+            "bronze": 13, 
+            "gold": 13, 
+            "silver": 10, 
+            "total": 36
+        }, 
+        "Japan": {
+            "bronze": 7, 
+            "gold": 4, 
+            "silver": 7, 
+            "total": 18
+        }, 
+        "Mexico": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Morocco": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Netherlands": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "New Zealand": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Norway": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Pakistan": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Poland": {
+            "bronze": 11, 
+            "gold": 4, 
+            "silver": 6, 
+            "total": 21
+        }, 
+        "Portugal": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Romania": {
+            "bronze": 6, 
+            "gold": 3, 
+            "silver": 1, 
+            "total": 10
+        }, 
+        "Singapore": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "South Africa (until 1960)": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Soviet Union": {
+            "bronze": 31, 
+            "gold": 43, 
+            "silver": 29, 
+            "total": 103
+        }, 
+        "Spain": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Sweden": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "Switzerland": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Taiwan": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Turkey": {
+            "bronze": 0, 
+            "gold": 7, 
+            "silver": 2, 
+            "total": 9
+        }, 
+        "United Kingdom": {
+            "bronze": 12, 
+            "gold": 2, 
+            "silver": 6, 
+            "total": 20
+        }, 
+        "United States": {
+            "bronze": 16, 
+            "gold": 34, 
+            "silver": 21, 
+            "total": 71
+        }, 
+        "Venezuela": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }
+    }, 
+    "1964": {
+        "Argentina": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Australia": {
+            "bronze": 10, 
+            "gold": 6, 
+            "silver": 2, 
+            "total": 18
+        }, 
+        "Bahamas": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Belgium": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Brazil": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Bulgaria": {
+            "bronze": 2, 
+            "gold": 3, 
+            "silver": 5, 
+            "total": 10
+        }, 
+        "Canada": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Cuba": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 3, 
+            "gold": 5, 
+            "silver": 6, 
+            "total": 14
+        }, 
+        "Denmark": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "Ethiopia": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Finland": {
+            "bronze": 2, 
+            "gold": 3, 
+            "silver": 0, 
+            "total": 5
+        }, 
+        "France": {
+            "bronze": 6, 
+            "gold": 1, 
+            "silver": 8, 
+            "total": 15
+        }, 
+        "Germany": {
+            "bronze": 18, 
+            "gold": 10, 
+            "silver": 22, 
+            "total": 50
+        }, 
+        "Ghana": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Hungary": {
+            "bronze": 5, 
+            "gold": 10, 
+            "silver": 7, 
+            "total": 22
+        }, 
+        "India": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Iran": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Ireland": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Italy": {
+            "bronze": 7, 
+            "gold": 10, 
+            "silver": 10, 
+            "total": 27
+        }, 
+        "Japan": {
+            "bronze": 8, 
+            "gold": 16, 
+            "silver": 5, 
+            "total": 29
+        }, 
+        "Kenya": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Mexico": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Netherlands": {
+            "bronze": 4, 
+            "gold": 2, 
+            "silver": 4, 
+            "total": 10
+        }, 
+        "New Zealand": {
+            "bronze": 2, 
+            "gold": 3, 
+            "silver": 0, 
+            "total": 5
+        }, 
+        "Nigeria": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Pakistan": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Philippines": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Poland": {
+            "bronze": 10, 
+            "gold": 7, 
+            "silver": 6, 
+            "total": 23
+        }, 
+        "Romania": {
+            "bronze": 6, 
+            "gold": 2, 
+            "silver": 4, 
+            "total": 12
+        }, 
+        "South Korea": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 3
+        }, 
+        "Soviet Union": {
+            "bronze": 35, 
+            "gold": 30, 
+            "silver": 31, 
+            "total": 96
+        }, 
+        "Sweden": {
+            "bronze": 4, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 8
+        }, 
+        "Switzerland": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Trinidad & Tobago": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Tunisia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Turkey": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "United Kingdom": {
+            "bronze": 2, 
+            "gold": 4, 
+            "silver": 12, 
+            "total": 18
+        }, 
+        "United States": {
+            "bronze": 28, 
+            "gold": 36, 
+            "silver": 26, 
+            "total": 90
+        }, 
+        "Uruguay": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 5
+        }
+    }, 
+    "1968": {
+        "Argentina": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Australia": {
+            "bronze": 5, 
+            "gold": 5, 
+            "silver": 7, 
+            "total": 17
+        }, 
+        "Austria": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Belgium": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Brazil": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Bulgaria": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 4, 
+            "total": 9
+        }, 
+        "Cameroon": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Canada": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 5
+        }, 
+        "Cuba": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 4, 
+            "total": 4
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 4, 
+            "gold": 7, 
+            "silver": 2, 
+            "total": 13
+        }, 
+        "Denmark": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 4, 
+            "total": 8
+        }, 
+        "East Germany": {
+            "bronze": 7, 
+            "gold": 9, 
+            "silver": 9, 
+            "total": 25
+        }, 
+        "Ethiopia": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Finland": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "France": {
+            "bronze": 5, 
+            "gold": 7, 
+            "silver": 3, 
+            "total": 15
+        }, 
+        "Greece": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Hungary": {
+            "bronze": 12, 
+            "gold": 10, 
+            "silver": 10, 
+            "total": 32
+        }, 
+        "India": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Iran": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Italy": {
+            "bronze": 9, 
+            "gold": 3, 
+            "silver": 4, 
+            "total": 16
+        }, 
+        "Jamaica": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Japan": {
+            "bronze": 7, 
+            "gold": 11, 
+            "silver": 7, 
+            "total": 25
+        }, 
+        "Kenya": {
+            "bronze": 2, 
+            "gold": 3, 
+            "silver": 4, 
+            "total": 9
+        }, 
+        "Mexico": {
+            "bronze": 3, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 9
+        }, 
+        "Mongolia": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Netherlands": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 7
+        }, 
+        "New Zealand": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Norway": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Pakistan": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Poland": {
+            "bronze": 11, 
+            "gold": 5, 
+            "silver": 2, 
+            "total": 18
+        }, 
+        "Romania": {
+            "bronze": 5, 
+            "gold": 4, 
+            "silver": 6, 
+            "total": 15
+        }, 
+        "South Korea": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Soviet Union": {
+            "bronze": 30, 
+            "gold": 29, 
+            "silver": 32, 
+            "total": 91
+        }, 
+        "Sweden": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Switzerland": {
+            "bronze": 4, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Taiwan": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Tunisia": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Turkey": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Uganda": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "United Kingdom": {
+            "bronze": 3, 
+            "gold": 5, 
+            "silver": 5, 
+            "total": 13
+        }, 
+        "United States": {
+            "bronze": 34, 
+            "gold": 45, 
+            "silver": 28, 
+            "total": 107
+        }, 
+        "Venezuela": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "West Germany": {
+            "bronze": 10, 
+            "gold": 5, 
+            "silver": 11, 
+            "total": 26
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 2, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 8
+        }
+    }, 
+    "1972": {
+        "Argentina": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Australia": {
+            "bronze": 2, 
+            "gold": 8, 
+            "silver": 7, 
+            "total": 17
+        }, 
+        "Austria": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Belgium": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Brazil": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Bulgaria": {
+            "bronze": 5, 
+            "gold": 6, 
+            "silver": 10, 
+            "total": 21
+        }, 
+        "Canada": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Colombia": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Cuba": {
+            "bronze": 4, 
+            "gold": 3, 
+            "silver": 1, 
+            "total": 8
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 4, 
+            "total": 8
+        }, 
+        "Denmark": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "East Germany": {
+            "bronze": 23, 
+            "gold": 20, 
+            "silver": 23, 
+            "total": 66
+        }, 
+        "Ethiopia": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Finland": {
+            "bronze": 4, 
+            "gold": 3, 
+            "silver": 1, 
+            "total": 8
+        }, 
+        "France": {
+            "bronze": 7, 
+            "gold": 2, 
+            "silver": 4, 
+            "total": 13
+        }, 
+        "Ghana": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Greece": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Hungary": {
+            "bronze": 16, 
+            "gold": 6, 
+            "silver": 13, 
+            "total": 35
+        }, 
+        "India": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Iran": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 3
+        }, 
+        "Italy": {
+            "bronze": 10, 
+            "gold": 5, 
+            "silver": 3, 
+            "total": 18
+        }, 
+        "Jamaica": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Japan": {
+            "bronze": 8, 
+            "gold": 13, 
+            "silver": 8, 
+            "total": 29
+        }, 
+        "Kenya": {
+            "bronze": 4, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 9
+        }, 
+        "Lebanon": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Mexico": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Mongolia": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Netherlands": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "New Zealand": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Niger": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Nigeria": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "North Korea": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Norway": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Pakistan": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Poland": {
+            "bronze": 9, 
+            "gold": 7, 
+            "silver": 5, 
+            "total": 21
+        }, 
+        "Romania": {
+            "bronze": 7, 
+            "gold": 3, 
+            "silver": 6, 
+            "total": 16
+        }, 
+        "South Korea": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Soviet Union": {
+            "bronze": 22, 
+            "gold": 50, 
+            "silver": 27, 
+            "total": 99
+        }, 
+        "Spain": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Sweden": {
+            "bronze": 6, 
+            "gold": 4, 
+            "silver": 6, 
+            "total": 16
+        }, 
+        "Switzerland": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 3
+        }, 
+        "Tunisia": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Turkey": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Uganda": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "United Kingdom": {
+            "bronze": 9, 
+            "gold": 4, 
+            "silver": 5, 
+            "total": 18
+        }, 
+        "United States": {
+            "bronze": 30, 
+            "gold": 33, 
+            "silver": 31, 
+            "total": 94
+        }, 
+        "West Germany": {
+            "bronze": 16, 
+            "gold": 13, 
+            "silver": 11, 
+            "total": 40
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 5
+        }
+    }, 
+    "1976": {
+        "Australia": {
+            "bronze": 4, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Austria": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Belgium": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Bermuda": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Brazil": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Bulgaria": {
+            "bronze": 7, 
+            "gold": 6, 
+            "silver": 9, 
+            "total": 22
+        }, 
+        "Canada": {
+            "bronze": 6, 
+            "gold": 0, 
+            "silver": 5, 
+            "total": 11
+        }, 
+        "Cuba": {
+            "bronze": 3, 
+            "gold": 6, 
+            "silver": 4, 
+            "total": 13
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 4, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 8
+        }, 
+        "Denmark": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "East Germany": {
+            "bronze": 25, 
+            "gold": 40, 
+            "silver": 25, 
+            "total": 90
+        }, 
+        "Finland": {
+            "bronze": 0, 
+            "gold": 4, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "France": {
+            "bronze": 4, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 9
+        }, 
+        "Hungary": {
+            "bronze": 13, 
+            "gold": 4, 
+            "silver": 5, 
+            "total": 22
+        }, 
+        "Iran": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Italy": {
+            "bronze": 4, 
+            "gold": 2, 
+            "silver": 7, 
+            "total": 13
+        }, 
+        "Jamaica": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Japan": {
+            "bronze": 10, 
+            "gold": 9, 
+            "silver": 6, 
+            "total": 25
+        }, 
+        "Mexico": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Mongolia": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Netherlands": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "New Zealand": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "North Korea": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Norway": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Pakistan": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Poland": {
+            "bronze": 13, 
+            "gold": 7, 
+            "silver": 6, 
+            "total": 26
+        }, 
+        "Portugal": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Puerto Rico": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Romania": {
+            "bronze": 14, 
+            "gold": 4, 
+            "silver": 9, 
+            "total": 27
+        }, 
+        "South Korea": {
+            "bronze": 4, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "Soviet Union": {
+            "bronze": 35, 
+            "gold": 49, 
+            "silver": 41, 
+            "total": 125
+        }, 
+        "Spain": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Sweden": {
+            "bronze": 0, 
+            "gold": 4, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Switzerland": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Thailand": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Trinidad & Tobago": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "United Kingdom": {
+            "bronze": 5, 
+            "gold": 3, 
+            "silver": 5, 
+            "total": 13
+        }, 
+        "United States": {
+            "bronze": 25, 
+            "gold": 34, 
+            "silver": 35, 
+            "total": 94
+        }, 
+        "Venezuela": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "West Germany": {
+            "bronze": 17, 
+            "gold": 10, 
+            "silver": 12, 
+            "total": 39
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 8
+        }
+    }, 
+    "1980": {
+        "Australia": {
+            "bronze": 5, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 9
+        }, 
+        "Austria": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Belgium": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Brazil": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 4
+        }, 
+        "Bulgaria": {
+            "bronze": 17, 
+            "gold": 8, 
+            "silver": 16, 
+            "total": 41
+        }, 
+        "Cuba": {
+            "bronze": 5, 
+            "gold": 8, 
+            "silver": 7, 
+            "total": 20
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 9, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 14
+        }, 
+        "Denmark": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "East Germany": {
+            "bronze": 42, 
+            "gold": 47, 
+            "silver": 37, 
+            "total": 126
+        }, 
+        "Ethiopia": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 4
+        }, 
+        "Finland": {
+            "bronze": 4, 
+            "gold": 3, 
+            "silver": 1, 
+            "total": 8
+        }, 
+        "France": {
+            "bronze": 3, 
+            "gold": 6, 
+            "silver": 5, 
+            "total": 14
+        }, 
+        "Greece": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Guyana": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Hungary": {
+            "bronze": 15, 
+            "gold": 7, 
+            "silver": 10, 
+            "total": 32
+        }, 
+        "India": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Ireland": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Italy": {
+            "bronze": 4, 
+            "gold": 8, 
+            "silver": 3, 
+            "total": 15
+        }, 
+        "Jamaica": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Lebanon": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Mexico": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Mongolia": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Netherlands": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "North Korea": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 5
+        }, 
+        "Poland": {
+            "bronze": 15, 
+            "gold": 3, 
+            "silver": 14, 
+            "total": 32
+        }, 
+        "Romania": {
+            "bronze": 13, 
+            "gold": 6, 
+            "silver": 6, 
+            "total": 25
+        }, 
+        "Soviet Union": {
+            "bronze": 46, 
+            "gold": 80, 
+            "silver": 69, 
+            "total": 195
+        }, 
+        "Spain": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Sweden": {
+            "bronze": 6, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 12
+        }, 
+        "Switzerland": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Tanzania": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Uganda": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "United Kingdom": {
+            "bronze": 9, 
+            "gold": 5, 
+            "silver": 7, 
+            "total": 21
+        }, 
+        "Venezuela": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 4, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 9
+        }, 
+        "Zimbabwe": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }
+    }, 
+    "1984": {
+        "Algeria": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Australia": {
+            "bronze": 12, 
+            "gold": 4, 
+            "silver": 8, 
+            "total": 24
+        }, 
+        "Austria": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Belgium": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Brazil": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 5, 
+            "total": 8
+        }, 
+        "Cameroon": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Canada": {
+            "bronze": 16, 
+            "gold": 10, 
+            "silver": 18, 
+            "total": 44
+        }, 
+        "China": {
+            "bronze": 9, 
+            "gold": 15, 
+            "silver": 8, 
+            "total": 32
+        }, 
+        "Colombia": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Denmark": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Dominican Rep.": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Egypt": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Finland": {
+            "bronze": 6, 
+            "gold": 4, 
+            "silver": 2, 
+            "total": 12
+        }, 
+        "France": {
+            "bronze": 16, 
+            "gold": 5, 
+            "silver": 7, 
+            "total": 28
+        }, 
+        "Greece": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Iceland": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Ireland": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Italy": {
+            "bronze": 12, 
+            "gold": 14, 
+            "silver": 6, 
+            "total": 32
+        }, 
+        "Ivory Coast": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Jamaica": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Japan": {
+            "bronze": 14, 
+            "gold": 10, 
+            "silver": 8, 
+            "total": 32
+        }, 
+        "Kenya": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Mexico": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Morocco": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Netherlands": {
+            "bronze": 6, 
+            "gold": 5, 
+            "silver": 2, 
+            "total": 13
+        }, 
+        "New Zealand": {
+            "bronze": 2, 
+            "gold": 8, 
+            "silver": 1, 
+            "total": 11
+        }, 
+        "Nigeria": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Norway": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Pakistan": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Peru": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Portugal": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Puerto Rico": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Romania": {
+            "bronze": 17, 
+            "gold": 20, 
+            "silver": 16, 
+            "total": 53
+        }, 
+        "South Korea": {
+            "bronze": 7, 
+            "gold": 6, 
+            "silver": 6, 
+            "total": 19
+        }, 
+        "Spain": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Sweden": {
+            "bronze": 6, 
+            "gold": 2, 
+            "silver": 11, 
+            "total": 19
+        }, 
+        "Switzerland": {
+            "bronze": 4, 
+            "gold": 0, 
+            "silver": 4, 
+            "total": 8
+        }, 
+        "Syria": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Taiwan": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Thailand": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Turkey": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "United Kingdom": {
+            "bronze": 21, 
+            "gold": 5, 
+            "silver": 11, 
+            "total": 37
+        }, 
+        "United States": {
+            "bronze": 30, 
+            "gold": 83, 
+            "silver": 61, 
+            "total": 174
+        }, 
+        "Venezuela": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "West Germany": {
+            "bronze": 23, 
+            "gold": 17, 
+            "silver": 19, 
+            "total": 59
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 7, 
+            "gold": 7, 
+            "silver": 4, 
+            "total": 18
+        }, 
+        "Zambia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }
+    }, 
+    "1988": {
+        "Argentina": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Australia": {
+            "bronze": 5, 
+            "gold": 3, 
+            "silver": 6, 
+            "total": 14
+        }, 
+        "Austria": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Belgium": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Brazil": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "Bulgaria": {
+            "bronze": 13, 
+            "gold": 10, 
+            "silver": 12, 
+            "total": 35
+        }, 
+        "Canada": {
+            "bronze": 5, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 10
+        }, 
+        "Chile": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "China": {
+            "bronze": 12, 
+            "gold": 5, 
+            "silver": 11, 
+            "total": 28
+        }, 
+        "Colombia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Costa Rica": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Czechoslovakia (until 1992)": {
+            "bronze": 2, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 8
+        }, 
+        "Denmark": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Djibouti": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "East Germany": {
+            "bronze": 30, 
+            "gold": 37, 
+            "silver": 35, 
+            "total": 102
+        }, 
+        "Finland": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "France": {
+            "bronze": 6, 
+            "gold": 6, 
+            "silver": 4, 
+            "total": 16
+        }, 
+        "Greece": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Hungary": {
+            "bronze": 6, 
+            "gold": 11, 
+            "silver": 6, 
+            "total": 23
+        }, 
+        "Indonesia": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Iran": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Italy": {
+            "bronze": 4, 
+            "gold": 6, 
+            "silver": 4, 
+            "total": 14
+        }, 
+        "Jamaica": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Japan": {
+            "bronze": 7, 
+            "gold": 4, 
+            "silver": 3, 
+            "total": 14
+        }, 
+        "Kenya": {
+            "bronze": 2, 
+            "gold": 5, 
+            "silver": 2, 
+            "total": 9
+        }, 
+        "Mexico": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Mongolia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Morocco": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Netherland Antilles": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Netherlands": {
+            "bronze": 5, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 9
+        }, 
+        "New Zealand": {
+            "bronze": 8, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 13
+        }, 
+        "Norway": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 5
+        }, 
+        "Pakistan": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Peru": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Philippines": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Poland": {
+            "bronze": 9, 
+            "gold": 2, 
+            "silver": 5, 
+            "total": 16
+        }, 
+        "Portugal": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Romania": {
+            "bronze": 6, 
+            "gold": 7, 
+            "silver": 11, 
+            "total": 24
+        }, 
+        "Senegal": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "South Korea": {
+            "bronze": 11, 
+            "gold": 12, 
+            "silver": 10, 
+            "total": 33
+        }, 
+        "Soviet Union": {
+            "bronze": 46, 
+            "gold": 55, 
+            "silver": 31, 
+            "total": 132
+        }, 
+        "Spain": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Suriname": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Sweden": {
+            "bronze": 7, 
+            "gold": 0, 
+            "silver": 4, 
+            "total": 11
+        }, 
+        "Switzerland": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Thailand": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Turkey": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "United Kingdom": {
+            "bronze": 9, 
+            "gold": 5, 
+            "silver": 10, 
+            "total": 24
+        }, 
+        "United States": {
+            "bronze": 27, 
+            "gold": 36, 
+            "silver": 31, 
+            "total": 94
+        }, 
+        "Virgin Islands US": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "West Germany": {
+            "bronze": 15, 
+            "gold": 11, 
+            "silver": 14, 
+            "total": 40
+        }, 
+        "Yugoslavia (until 1988)": {
+            "bronze": 5, 
+            "gold": 3, 
+            "silver": 4, 
+            "total": 12
+        }
+    }, 
+    "1992": {
+        "Algeria": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Argentina": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Australia": {
+            "bronze": 11, 
+            "gold": 7, 
+            "silver": 9, 
+            "total": 27
+        }, 
+        "Austria": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Bahamas": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Belgium": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Brazil": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Bulgaria": {
+            "bronze": 6, 
+            "gold": 3, 
+            "silver": 7, 
+            "total": 16
+        }, 
+        "Canada": {
+            "bronze": 7, 
+            "gold": 7, 
+            "silver": 4, 
+            "total": 18
+        }, 
+        "China": {
+            "bronze": 16, 
+            "gold": 16, 
+            "silver": 22, 
+            "total": 54
+        }, 
+        "Colombia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Croatia": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Cuba": {
+            "bronze": 11, 
+            "gold": 14, 
+            "silver": 6, 
+            "total": 31
+        }, 
+        "Czech Rep.": {
+            "bronze": 1, 
+            "gold": 4, 
+            "silver": 2, 
+            "total": 7
+        }, 
+        "Denmark": {
+            "bronze": 4, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "Estonia": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Ethiopia": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Finland": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "France": {
+            "bronze": 16, 
+            "gold": 8, 
+            "silver": 5, 
+            "total": 29
+        }, 
+        "Germany": {
+            "bronze": 28, 
+            "gold": 33, 
+            "silver": 21, 
+            "total": 82
+        }, 
+        "Ghana": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Greece": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Hungary": {
+            "bronze": 7, 
+            "gold": 11, 
+            "silver": 12, 
+            "total": 30
+        }, 
+        "Indonesia": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Iran": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Ireland": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Israel": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Italy": {
+            "bronze": 8, 
+            "gold": 6, 
+            "silver": 5, 
+            "total": 19
+        }, 
+        "Jamaica": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 4
+        }, 
+        "Japan": {
+            "bronze": 11, 
+            "gold": 3, 
+            "silver": 8, 
+            "total": 22
+        }, 
+        "Kenya": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 4, 
+            "total": 8
+        }, 
+        "Latvia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 3
+        }, 
+        "Lithuania": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Malaysia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Mexico": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Mongolia": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Morocco": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Namibia": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Netherlands": {
+            "bronze": 7, 
+            "gold": 2, 
+            "silver": 6, 
+            "total": 15
+        }, 
+        "New Zealand": {
+            "bronze": 5, 
+            "gold": 1, 
+            "silver": 4, 
+            "total": 10
+        }, 
+        "Nigeria": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 4
+        }, 
+        "North Korea": {
+            "bronze": 5, 
+            "gold": 4, 
+            "silver": 0, 
+            "total": 9
+        }, 
+        "Norway": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 4, 
+            "total": 7
+        }, 
+        "Pakistan": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Peru": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Philippines": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Poland": {
+            "bronze": 10, 
+            "gold": 3, 
+            "silver": 6, 
+            "total": 19
+        }, 
+        "Puerto Rico": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Qatar": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Romania": {
+            "bronze": 8, 
+            "gold": 4, 
+            "silver": 6, 
+            "total": 18
+        }, 
+        "Slovenia": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "South Africa": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "South Korea": {
+            "bronze": 12, 
+            "gold": 12, 
+            "silver": 5, 
+            "total": 29
+        }, 
+        "Soviet Union": {
+            "bronze": 29, 
+            "gold": 45, 
+            "silver": 38, 
+            "total": 112
+        }, 
+        "Spain": {
+            "bronze": 2, 
+            "gold": 13, 
+            "silver": 7, 
+            "total": 22
+        }, 
+        "Suriname": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Sweden": {
+            "bronze": 4, 
+            "gold": 1, 
+            "silver": 7, 
+            "total": 12
+        }, 
+        "Switzerland": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Taiwan": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Thailand": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Turkey": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "United Kingdom": {
+            "bronze": 12, 
+            "gold": 5, 
+            "silver": 3, 
+            "total": 20
+        }, 
+        "United States": {
+            "bronze": 37, 
+            "gold": 37, 
+            "silver": 34, 
+            "total": 108
+        }, 
+        "Yugoslav Federation": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }
+    }, 
+    "1996": {
+        "Algeria": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Argentina": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 3
+        }, 
+        "Armenia": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Australia": {
+            "bronze": 23, 
+            "gold": 9, 
+            "silver": 9, 
+            "total": 41
+        }, 
+        "Austria": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Azerbaijan": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Bahamas": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Belarus": {
+            "bronze": 8, 
+            "gold": 1, 
+            "silver": 6, 
+            "total": 15
+        }, 
+        "Belgium": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "Brazil": {
+            "bronze": 9, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 15
+        }, 
+        "Bulgaria": {
+            "bronze": 5, 
+            "gold": 3, 
+            "silver": 7, 
+            "total": 15
+        }, 
+        "Burundi": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Canada": {
+            "bronze": 8, 
+            "gold": 3, 
+            "silver": 11, 
+            "total": 22
+        }, 
+        "China": {
+            "bronze": 12, 
+            "gold": 16, 
+            "silver": 22, 
+            "total": 50
+        }, 
+        "Costa Rica": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Croatia": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Cuba": {
+            "bronze": 8, 
+            "gold": 9, 
+            "silver": 8, 
+            "total": 25
+        }, 
+        "Czech Rep.": {
+            "bronze": 4, 
+            "gold": 4, 
+            "silver": 3, 
+            "total": 11
+        }, 
+        "Denmark": {
+            "bronze": 1, 
+            "gold": 4, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "Ecuador": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Ethiopia": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Finland": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "France": {
+            "bronze": 15, 
+            "gold": 15, 
+            "silver": 7, 
+            "total": 37
+        }, 
+        "Georgia": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Germany": {
+            "bronze": 27, 
+            "gold": 20, 
+            "silver": 18, 
+            "total": 65
+        }, 
+        "Greece": {
+            "bronze": 0, 
+            "gold": 4, 
+            "silver": 4, 
+            "total": 8
+        }, 
+        "Hong Kong": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Hungary": {
+            "bronze": 10, 
+            "gold": 7, 
+            "silver": 4, 
+            "total": 21
+        }, 
+        "India": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Indonesia": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Iran": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Ireland": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 0, 
+            "total": 4
+        }, 
+        "Israel": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Italy": {
+            "bronze": 12, 
+            "gold": 13, 
+            "silver": 10, 
+            "total": 35
+        }, 
+        "Jamaica": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Japan": {
+            "bronze": 5, 
+            "gold": 3, 
+            "silver": 6, 
+            "total": 14
+        }, 
+        "Kazakhstan": {
+            "bronze": 4, 
+            "gold": 3, 
+            "silver": 4, 
+            "total": 11
+        }, 
+        "Kenya": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 4, 
+            "total": 8
+        }, 
+        "Latvia": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Lithuania": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Malaysia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Mexico": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Moldova": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Mongolia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Morocco": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Mozambique": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Namibia": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Netherlands": {
+            "bronze": 10, 
+            "gold": 4, 
+            "silver": 5, 
+            "total": 19
+        }, 
+        "New Zealand": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "Nigeria": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "North Korea": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Norway": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 7
+        }, 
+        "Philippines": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Poland": {
+            "bronze": 5, 
+            "gold": 7, 
+            "silver": 5, 
+            "total": 17
+        }, 
+        "Portugal": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Puerto Rico": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Romania": {
+            "bronze": 9, 
+            "gold": 4, 
+            "silver": 7, 
+            "total": 20
+        }, 
+        "Russia": {
+            "bronze": 16, 
+            "gold": 26, 
+            "silver": 21, 
+            "total": 63
+        }, 
+        "Slovak Rep.": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Slovenia": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "South Africa": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "South Korea": {
+            "bronze": 5, 
+            "gold": 7, 
+            "silver": 15, 
+            "total": 27
+        }, 
+        "Spain": {
+            "bronze": 6, 
+            "gold": 5, 
+            "silver": 6, 
+            "total": 17
+        }, 
+        "Sweden": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 4, 
+            "total": 8
+        }, 
+        "Switzerland": {
+            "bronze": 0, 
+            "gold": 4, 
+            "silver": 3, 
+            "total": 7
+        }, 
+        "Syria": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Taiwan": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Thailand": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Tonga": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Trinidad & Tobago": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Tunisia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Turkey": {
+            "bronze": 1, 
+            "gold": 4, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "Uganda": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Ukraine": {
+            "bronze": 12, 
+            "gold": 9, 
+            "silver": 2, 
+            "total": 23
+        }, 
+        "United Kingdom": {
+            "bronze": 6, 
+            "gold": 1, 
+            "silver": 8, 
+            "total": 15
+        }, 
+        "United States": {
+            "bronze": 25, 
+            "gold": 44, 
+            "silver": 32, 
+            "total": 101
+        }, 
+        "Uzbekistan": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Yugoslav Federation": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Zambia": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }
+    }, 
+    "2000": {
+        "Algeria": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Argentina": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Armenia": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Australia": {
+            "bronze": 17, 
+            "gold": 16, 
+            "silver": 25, 
+            "total": 58
+        }, 
+        "Austria": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Azerbaijan": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Bahamas": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Barbados": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Belarus": {
+            "bronze": 11, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 17
+        }, 
+        "Belgium": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Brazil": {
+            "bronze": 6, 
+            "gold": 0, 
+            "silver": 6, 
+            "total": 12
+        }, 
+        "Bulgaria": {
+            "bronze": 2, 
+            "gold": 5, 
+            "silver": 6, 
+            "total": 13
+        }, 
+        "Cameroon": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Canada": {
+            "bronze": 8, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 14
+        }, 
+        "Chile": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "China": {
+            "bronze": 15, 
+            "gold": 28, 
+            "silver": 16, 
+            "total": 59
+        }, 
+        "Colombia": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Costa Rica": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Croatia": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Cuba": {
+            "bronze": 7, 
+            "gold": 11, 
+            "silver": 11, 
+            "total": 29
+        }, 
+        "Czech Rep.": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 8
+        }, 
+        "Denmark": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Estonia": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Ethiopia": {
+            "bronze": 3, 
+            "gold": 4, 
+            "silver": 1, 
+            "total": 8
+        }, 
+        "Finland": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "France": {
+            "bronze": 11, 
+            "gold": 13, 
+            "silver": 14, 
+            "total": 38
+        }, 
+        "Georgia": {
+            "bronze": 6, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 6
+        }, 
+        "Germany": {
+            "bronze": 26, 
+            "gold": 13, 
+            "silver": 17, 
+            "total": 56
+        }, 
+        "Greece": {
+            "bronze": 3, 
+            "gold": 5, 
+            "silver": 5, 
+            "total": 13
+        }, 
+        "Hungary": {
+            "bronze": 3, 
+            "gold": 8, 
+            "silver": 6, 
+            "total": 17
+        }, 
+        "Iceland": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "India": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Indonesia": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Iran": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 0, 
+            "total": 4
+        }, 
+        "Ireland": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Israel": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Italy": {
+            "bronze": 13, 
+            "gold": 13, 
+            "silver": 8, 
+            "total": 34
+        }, 
+        "Jamaica": {
+            "bronze": 4, 
+            "gold": 0, 
+            "silver": 5, 
+            "total": 9
+        }, 
+        "Japan": {
+            "bronze": 5, 
+            "gold": 5, 
+            "silver": 8, 
+            "total": 18
+        }, 
+        "Kazakhstan": {
+            "bronze": 0, 
+            "gold": 3, 
+            "silver": 4, 
+            "total": 7
+        }, 
+        "Kenya": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 7
+        }, 
+        "Kuwait": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Kyrgyzstan": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Latvia": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Lithuania": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 5
+        }, 
+        "Macedonia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Mexico": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "Moldova": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Morocco": {
+            "bronze": 4, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Mozambique": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Netherlands": {
+            "bronze": 4, 
+            "gold": 12, 
+            "silver": 9, 
+            "total": 25
+        }, 
+        "New Zealand": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 4
+        }, 
+        "Nigeria": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 3
+        }, 
+        "North Korea": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Norway": {
+            "bronze": 3, 
+            "gold": 4, 
+            "silver": 3, 
+            "total": 10
+        }, 
+        "Poland": {
+            "bronze": 3, 
+            "gold": 6, 
+            "silver": 5, 
+            "total": 14
+        }, 
+        "Portugal": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Qatar": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Romania": {
+            "bronze": 8, 
+            "gold": 11, 
+            "silver": 6, 
+            "total": 25
+        }, 
+        "Russia": {
+            "bronze": 28, 
+            "gold": 32, 
+            "silver": 28, 
+            "total": 88
+        }, 
+        "Saudi Arabia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Slovak Rep.": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 5
+        }, 
+        "Slovenia": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "South Africa": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "South Korea": {
+            "bronze": 10, 
+            "gold": 8, 
+            "silver": 10, 
+            "total": 28
+        }, 
+        "Spain": {
+            "bronze": 5, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 11
+        }, 
+        "Sri Lanka": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Sweden": {
+            "bronze": 3, 
+            "gold": 4, 
+            "silver": 5, 
+            "total": 12
+        }, 
+        "Switzerland": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 6, 
+            "total": 9
+        }, 
+        "Taiwan": {
+            "bronze": 4, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Thailand": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Trinidad & Tobago": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Turkey": {
+            "bronze": 2, 
+            "gold": 3, 
+            "silver": 0, 
+            "total": 5
+        }, 
+        "Ukraine": {
+            "bronze": 10, 
+            "gold": 3, 
+            "silver": 10, 
+            "total": 23
+        }, 
+        "United Kingdom": {
+            "bronze": 7, 
+            "gold": 11, 
+            "silver": 10, 
+            "total": 28
+        }, 
+        "United States": {
+            "bronze": 31, 
+            "gold": 37, 
+            "silver": 24, 
+            "total": 92
+        }, 
+        "Uruguay": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Uzbekistan": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Vietnam": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Yugoslav Federation": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 3
+        }
+    }, 
+    "2004": {
+        "Argentina": {
+            "bronze": 4, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 6
+        }, 
+        "Australia": {
+            "bronze": 16, 
+            "gold": 17, 
+            "silver": 16, 
+            "total": 49
+        }, 
+        "Austria": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 4, 
+            "total": 7
+        }, 
+        "Azerbaijan": {
+            "bronze": 4, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 5
+        }, 
+        "Bahamas": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Belarus": {
+            "bronze": 7, 
+            "gold": 2, 
+            "silver": 6, 
+            "total": 15
+        }, 
+        "Belgium": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Brazil": {
+            "bronze": 3, 
+            "gold": 5, 
+            "silver": 2, 
+            "total": 10
+        }, 
+        "Bulgaria": {
+            "bronze": 9, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 12
+        }, 
+        "Cameroon": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Canada": {
+            "bronze": 3, 
+            "gold": 3, 
+            "silver": 6, 
+            "total": 12
+        }, 
+        "Chile": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "China": {
+            "bronze": 14, 
+            "gold": 32, 
+            "silver": 17, 
+            "total": 63
+        }, 
+        "Colombia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Croatia": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Cuba": {
+            "bronze": 11, 
+            "gold": 9, 
+            "silver": 7, 
+            "total": 27
+        }, 
+        "Czech Rep.": {
+            "bronze": 4, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 8
+        }, 
+        "Denmark": {
+            "bronze": 6, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 8
+        }, 
+        "Dominican Rep.": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Egypt": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Eritrea": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Estonia": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Ethiopia": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 3, 
+            "total": 7
+        }, 
+        "Finland": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "France": {
+            "bronze": 13, 
+            "gold": 11, 
+            "silver": 9, 
+            "total": 33
+        }, 
+        "Georgia": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Germany": {
+            "bronze": 20, 
+            "gold": 13, 
+            "silver": 16, 
+            "total": 49
+        }, 
+        "Greece": {
+            "bronze": 4, 
+            "gold": 6, 
+            "silver": 6, 
+            "total": 16
+        }, 
+        "Hong Kong": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Hungary": {
+            "bronze": 3, 
+            "gold": 8, 
+            "silver": 6, 
+            "total": 17
+        }, 
+        "India": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Indonesia": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "Iran": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "Israel": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Italy": {
+            "bronze": 11, 
+            "gold": 10, 
+            "silver": 11, 
+            "total": 32
+        }, 
+        "Jamaica": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Japan": {
+            "bronze": 12, 
+            "gold": 16, 
+            "silver": 9, 
+            "total": 37
+        }, 
+        "Kazakhstan": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 4, 
+            "total": 8
+        }, 
+        "Kenya": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 4, 
+            "total": 7
+        }, 
+        "Latvia": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 4, 
+            "total": 4
+        }, 
+        "Lithuania": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 3
+        }, 
+        "Mexico": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 3, 
+            "total": 4
+        }, 
+        "Mongolia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Morocco": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Netherlands": {
+            "bronze": 9, 
+            "gold": 4, 
+            "silver": 9, 
+            "total": 22
+        }, 
+        "New Zealand": {
+            "bronze": 0, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Nigeria": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "North Korea": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 4, 
+            "total": 5
+        }, 
+        "Norway": {
+            "bronze": 1, 
+            "gold": 5, 
+            "silver": 0, 
+            "total": 6
+        }, 
+        "Paraguay": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Poland": {
+            "bronze": 5, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 10
+        }, 
+        "Portugal": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 3
+        }, 
+        "Romania": {
+            "bronze": 6, 
+            "gold": 8, 
+            "silver": 5, 
+            "total": 19
+        }, 
+        "Russia": {
+            "bronze": 38, 
+            "gold": 27, 
+            "silver": 27, 
+            "total": 92
+        }, 
+        "Slovak Rep.": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "Slovenia": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "South Africa": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "South Korea": {
+            "bronze": 9, 
+            "gold": 9, 
+            "silver": 12, 
+            "total": 30
+        }, 
+        "Spain": {
+            "bronze": 5, 
+            "gold": 3, 
+            "silver": 11, 
+            "total": 19
+        }, 
+        "Sweden": {
+            "bronze": 1, 
+            "gold": 4, 
+            "silver": 2, 
+            "total": 7
+        }, 
+        "Switzerland": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Syria": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Taiwan": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Thailand": {
+            "bronze": 4, 
+            "gold": 3, 
+            "silver": 1, 
+            "total": 8
+        }, 
+        "Trinidad & Tobago": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Turkey": {
+            "bronze": 4, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 10
+        }, 
+        "Ukraine": {
+            "bronze": 9, 
+            "gold": 9, 
+            "silver": 5, 
+            "total": 23
+        }, 
+        "United Arab Emirates": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "United Kingdom": {
+            "bronze": 12, 
+            "gold": 9, 
+            "silver": 9, 
+            "total": 30
+        }, 
+        "United States": {
+            "bronze": 28, 
+            "gold": 36, 
+            "silver": 39, 
+            "total": 103
+        }, 
+        "Uzbekistan": {
+            "bronze": 2, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Venezuela": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 2
+        }, 
+        "Yugoslav Federation": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Zimbabwe": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 3
+        }
+    }, 
+    "2008": {
+        "Afghanistan": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Algeria": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Argentina": {
+            "bronze": 4, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 6
+        }, 
+        "Armenia": {
+            "bronze": 6, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 6
+        }, 
+        "Australia": {
+            "bronze": 17, 
+            "gold": 14, 
+            "silver": 15, 
+            "total": 46
+        }, 
+        "Austria": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Azerbaijan": {
+            "bronze": 5, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 8
+        }, 
+        "Bahamas": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Bahrain": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Belarus": {
+            "bronze": 9, 
+            "gold": 4, 
+            "silver": 5, 
+            "total": 18
+        }, 
+        "Belgium": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Brazil": {
+            "bronze": 7, 
+            "gold": 3, 
+            "silver": 4, 
+            "total": 14
+        }, 
+        "Bulgaria": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Burkina Faso": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Cameroon": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Canada": {
+            "bronze": 6, 
+            "gold": 3, 
+            "silver": 9, 
+            "total": 18
+        }, 
+        "Chile": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "China": {
+            "bronze": 28, 
+            "gold": 51, 
+            "silver": 21, 
+            "total": 100
+        }, 
+        "Colombia": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Croatia": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Cuba": {
+            "bronze": 12, 
+            "gold": 2, 
+            "silver": 11, 
+            "total": 25
+        }, 
+        "Czech Rep.": {
+            "bronze": 0, 
+            "gold": 3, 
+            "silver": 3, 
+            "total": 6
+        }, 
+        "Denmark": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 7
+        }, 
+        "Dominican Rep.": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Ecuador": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Egypt": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Estonia": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Ethiopia": {
+            "bronze": 2, 
+            "gold": 4, 
+            "silver": 1, 
+            "total": 7
+        }, 
+        "Finland": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "France": {
+            "bronze": 17, 
+            "gold": 7, 
+            "silver": 16, 
+            "total": 40
+        }, 
+        "Georgia": {
+            "bronze": 3, 
+            "gold": 3, 
+            "silver": 0, 
+            "total": 6
+        }, 
+        "Germany": {
+            "bronze": 15, 
+            "gold": 16, 
+            "silver": 10, 
+            "total": 41
+        }, 
+        "Greece": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Hungary": {
+            "bronze": 2, 
+            "gold": 3, 
+            "silver": 5, 
+            "total": 10
+        }, 
+        "India": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Indonesia": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 5
+        }, 
+        "Ireland": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Israel": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Italy": {
+            "bronze": 10, 
+            "gold": 8, 
+            "silver": 10, 
+            "total": 28
+        }, 
+        "Jamaica": {
+            "bronze": 2, 
+            "gold": 6, 
+            "silver": 2, 
+            "total": 10
+        }, 
+        "Japan": {
+            "bronze": 9, 
+            "gold": 9, 
+            "silver": 5, 
+            "total": 23
+        }, 
+        "Kazakhstan": {
+            "bronze": 6, 
+            "gold": 2, 
+            "silver": 4, 
+            "total": 12
+        }, 
+        "Kenya": {
+            "bronze": 4, 
+            "gold": 5, 
+            "silver": 5, 
+            "total": 14
+        }, 
+        "Kyrgyzstan": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Latvia": {
+            "bronze": 1, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Lithuania": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "Malaysia": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Mauritius": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Mexico": {
+            "bronze": 1, 
+            "gold": 2, 
+            "silver": 0, 
+            "total": 3
+        }, 
+        "Moldova": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Mongolia": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Morocco": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Netherlands": {
+            "bronze": 3, 
+            "gold": 7, 
+            "silver": 5, 
+            "total": 15
+        }, 
+        "New Zealand": {
+            "bronze": 5, 
+            "gold": 3, 
+            "silver": 1, 
+            "total": 9
+        }, 
+        "Nigeria": {
+            "bronze": 3, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 4
+        }, 
+        "North Korea": {
+            "bronze": 3, 
+            "gold": 2, 
+            "silver": 1, 
+            "total": 6
+        }, 
+        "Norway": {
+            "bronze": 2, 
+            "gold": 3, 
+            "silver": 5, 
+            "total": 10
+        }, 
+        "Panama": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Poland": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 6, 
+            "total": 10
+        }, 
+        "Portugal": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Romania": {
+            "bronze": 3, 
+            "gold": 4, 
+            "silver": 1, 
+            "total": 8
+        }, 
+        "Russia": {
+            "bronze": 28, 
+            "gold": 23, 
+            "silver": 21, 
+            "total": 72
+        }, 
+        "Serbia": {
+            "bronze": 2, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 3
+        }, 
+        "Singapore": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Slovak Rep.": {
+            "bronze": 1, 
+            "gold": 3, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "Slovenia": {
+            "bronze": 2, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 5
+        }, 
+        "South Africa": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "South Korea": {
+            "bronze": 8, 
+            "gold": 13, 
+            "silver": 10, 
+            "total": 31
+        }, 
+        "Spain": {
+            "bronze": 3, 
+            "gold": 6, 
+            "silver": 10, 
+            "total": 19
+        }, 
+        "Sudan": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Sweden": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 4, 
+            "total": 5
+        }, 
+        "Switzerland": {
+            "bronze": 4, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 5
+        }, 
+        "Taiwan": {
+            "bronze": 4, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 4
+        }, 
+        "Tajikistan": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 2
+        }, 
+        "Thailand": {
+            "bronze": 0, 
+            "gold": 2, 
+            "silver": 2, 
+            "total": 4
+        }, 
+        "Togo": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Trinidad & Tobago": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 2, 
+            "total": 2
+        }, 
+        "Tunisia": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Turkey": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 4, 
+            "total": 8
+        }, 
+        "Ukraine": {
+            "bronze": 15, 
+            "gold": 7, 
+            "silver": 5, 
+            "total": 27
+        }, 
+        "United Kingdom": {
+            "bronze": 15, 
+            "gold": 19, 
+            "silver": 13, 
+            "total": 47
+        }, 
+        "United States": {
+            "bronze": 36, 
+            "gold": 36, 
+            "silver": 38, 
+            "total": 110
+        }, 
+        "Uzbekistan": {
+            "bronze": 3, 
+            "gold": 1, 
+            "silver": 2, 
+            "total": 6
+        }, 
+        "Venezuela": {
+            "bronze": 1, 
+            "gold": 0, 
+            "silver": 0, 
+            "total": 1
+        }, 
+        "Vietnam": {
+            "bronze": 0, 
+            "gold": 0, 
+            "silver": 1, 
+            "total": 1
+        }, 
+        "Zimbabwe": {
+            "bronze": 0, 
+            "gold": 1, 
+            "silver": 3, 
+            "total": 4
+        }
+    }
+}

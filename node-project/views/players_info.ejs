@@ -11,44 +11,62 @@
         </header>
 
         <div id="main-content">
-            <% if(is_result) {%>
-                <% if("Images" in result) {%>
-                    <% for (var i = 0 ; i < result.Images.length ; i++) { %>
-                        <img src='<%= result.Images[i] %>'>
+            <% if(is_mongo_result) {%>
+                <% if("Images" in mongo_result) {%>
+                    <% for (var i = 0 ; i < mongo_result.Images.length ; i++) { %>
+                        <img src='<%= mongo_result.Images[i] %>'>
                     <% } %>
                 <% } %>
-                <% if("info" in result) {%>
-                    <% if("summary" in result.info) {%>
+                <% if("info" in mongo_result) {%>
+                    <% if("summary" in mongo_result.info) {%>
                         <h3>Summary</h3>
-                        <p><%=result.info.summary%></p>
+                        <p><%=mongo_result.info.summary%></p>
                     <% } %>
                 <% } %>
                 <h3>Participations</h3>
-                <% if("Participations" in result) {%>
+                <% if("Participations" in mongo_result) {%>
                     <ul>
-                        <% for (var i = 0 ; i < result.Participations.length ; i++) { %>
-                            <li><%= result.Participations[i] %></li>
+                        <% for (var i = 0 ; i < mongo_result.Participations.length ; i++) { %>
+                            <li><%= mongo_result.Participations[i] %></li>
                         <% } %>
                     </ul>
                 <% } %>
-                <% if("Occupation" in result) {%>
+                <% if("Occupation" in mongo_result) {%>
                     <h3>Occupations</h3>
-                    <% for (var i = 0 ; i < result.Occupation.length ; i++) { %>
-                        <%= result.Occupation[i] %><br>
+                    <% for (var i = 0 ; i < mongo_result.Occupation.length ; i++) { %>
+                        <%= mongo_result.Occupation[i] %><br>
                     <% } %>
                 <% } %>
-                <% if("Date of Birth (dd-mm-yyyy)" in result) {%>
+                <% if("Date of Birth (dd-mm-yyyy)" in mongo_result) {%>
                     <h3>Date of Birth</h3>
-                    <%= result['Date of Birth (dd-mm-yyyy)'] %>
+                    <%= mongo_result['Date of Birth (dd-mm-yyyy)'] %>
                 <% } %>
-                <% if("name" in result['_id']) {%>
+                <% if("name" in mongo_result['_id']) {%>
                     <h3>Name</h3>
-                    <%= result['_id']['name'] %>
+                    <%= mongo_result['_id']['name'] %>
                 <% } %>
-                <% if("country" in result['_id']) {%>
+                <% if("country" in mongo_result['_id']) {%>
                     <h3>Country</h3>
-                    <%= result['_id']['country'] %>
+                    <%= mongo_result['_id']['country'] %>
                 <% } %>
+            <% } %>
+            <h3>Olympic Results</h3>
+            <% if(is_mysql_result) { %>
+                <table>
+                    <% for(var i=0; i < mysql_result.length; i++) { %>
+                        <tr>
+                            <td><%= mysql_result[i].Year %></td>
+                            <td> &nbsp; </td>
+                            <td><%= mysql_result[i].Season %></td>
+                            <td> &nbsp; </td>
+                            <td><%= mysql_result[i].Sport %></td>
+                            <td> &nbsp; </td>
+                            <td><%= mysql_result[i].Event %></td>
+                            <td> &nbsp; </td>
+                            <td><%= mysql_result[i].medal %></td>
+                        </tr>
+                    <% } %>
+                </table>
             <% } %>
         </div>
 

@@ -14,6 +14,8 @@ var express = require('express')
   , stylus = require("stylus")
   , nib = require("nib")
   , bodyParser = require('body-parser')
+  , mongodb = require('mongodb')
+  , mysql = require('mysql')
 ;
 
 // Initialize express
@@ -75,4 +77,24 @@ function init_app() {
 	  app.use(express.errorHandler());
 	}
 
+	var MongoClient = mongodb.MongoClient;
+	var url = 'mongodb://devanshu:vrgp14&vra@ec2-52-91-123-32.compute-1.amazonaws.com:27017/admin';
+	var mongoConnection;
+	MongoClient.connect(url, function (err, db) {
+		if (err) {
+			console.log('Unable to connect to the mongoDB server. Error:', err);
+			exports.mongoConnection = null;
+		} 
+		else {
+			console.log('Connection established to', url);
+			exports.mongoConnection = db;
+		}
+	});
+	var mysqlConnection;
+	exports.mysqlConnection = mysql.createConnection({
+		host     : 'cis550.cautcaubut2r.us-east-1.rds.amazonaws.com',
+		user     : 'cis550_group14',
+		password : 'vrgp14&vra',
+		database : 'olympics'
+	});
 }
