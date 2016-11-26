@@ -1,6 +1,18 @@
-#main-content{
+/*#main-content{
   padding: 60px 15px 0px 15px; 
   margin: 0;
   width: 100%;
   border: none;
+}
+*/
+
+/* Sarath's changes */
+#main-content{
+  padding: 40px 20px 0px 20px; 
+  margin: 40px 0px 0px 0px;
+  border: none;
+}
+
+.clickable-row:hover{
+	cursor: pointer;
 }

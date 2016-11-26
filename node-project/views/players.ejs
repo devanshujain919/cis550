@@ -11,23 +11,49 @@
             <% include header %>
         </header>
 
-        <div id="main-content">
-            <form action="/search/players" method="post">
-				Players' Name: <input type="text" name="pname"><br>
-                Country: <input type="text" name="pcountry"><br>
-				<input type="submit" value="Submit">
-			</form>
+        <div id="main-content">     
+            <div class="well">
+                <form action="/search/players" method="post" class="form-group">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <label>Player's Name</label>
+                            <input type="text" name="pname" class="form-control">
+                        </div>
+                        <div class="col-md-5">
+                            <label>Country</label>
+                            <input type="text" name="pcountry" class="form-control">
+                        </div>
+                        <div class="col-md-2">
+                            <br/>
+                            <input type="submit" value="Submit" class="btn btn-success btn-block">
+                        </div>
+                    </div>
+                </form>
+            </div>
+
             <% if (is_result) {%>
-                <table>
+            <div class="panel panel-default">
+                <table class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th class="col-md-6 text-center">Name</th>
+                        <th class="col-md-6 text-center">Country</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+
                     <% for(var i=0; i < result.length; i++) { %>
                         <tr class="clickable-row" data-name='<%= result[i].Name %>' data-country='<%= result[i].Country%>'>
-                            <td><%= result[i].Name %></td>
-                            <td> &nbsp; </td>
-                            <td><%= result[i].Country %></td>
+                            <td class="text-center"><%= result[i].Name %></td>
+                            <td class="text-center"><%= result[i].Country %></td>
+                            <td></td>
                         </tr>
                     <% } %>
+                    </tbody>
                 </table>
+            </div>
             <% } %>
+            
         </div>
 
         <footer>
