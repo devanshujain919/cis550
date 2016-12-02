@@ -13,19 +13,19 @@
 
         <div id="main-content">     
             <div class="well">
-                <form action="/search/players" method="post" class="form-group">
+                <form action="/search/players" method="post" class="form-group" id="search-form">
                     <div class="row">
                         <div class="col-md-5">
                             <label>Player's Name</label>
-                            <input type="text" name="pname" class="form-control">
+                            <input id="player-name" type="text" name="pname" class="form-control">
                         </div>
                         <div class="col-md-5">
-                            <label>Country</label>
-                            <input type="text" name="pcountry" class="form-control">
+                            <label>Player's Country</label>
+                            <input id="player-country" type="text" name="pcountry" class="form-control">
                         </div>
                         <div class="col-md-2">
                             <br/>
-                            <input type="submit" value="Submit" class="btn btn-success btn-block">
+                            <input type="submit" value="Submit" class="btn btn-success btn-block" id="search-btn">
                         </div>
                     </div>
                 </form>

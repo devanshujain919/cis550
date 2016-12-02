@@ -1,14 +1,12 @@
 /**
- * Simple Homework 2 application for CIS 550
- */
-
-/**
  * Module dependencies.
  */
 var express = require('express')
   , routes = require('./routes/index')
   , search = require('./routes/search')
   , players_info = require('./routes/players_info')
+  , analyse_country = require('./routes/analyse_country')
+  , analyse_players = require('./routes/analyse_players')
   , http = require('http')
   , path = require('path')
   , stylus = require("stylus")
@@ -28,11 +26,14 @@ init_app(app);
 app.get('/', routes.home);
 
 app.get('/search/sports', search.search_sports);
-
 app.get('/search/players', search.search_players);
-app.post('/search/players', search.query_players);
+app.get('/analyse/country', analyse_country.analyse);
+app.get('/players/autocomplete-name', search.autocomplete_name);
+app.get('/players/autocomplete-country', search.autocomplete_country);
 
+app.post('/search/players', search.query_players);
 app.post('/players', players_info.players_info);
+app.get('/analyse/players', analyse_players.analyse);
 
 // Listen on the port we specify
 http.createServer(app).listen(app.get('port'), function(){
