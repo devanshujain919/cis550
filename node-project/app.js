@@ -33,6 +33,14 @@ app.get('/your-work', your_work.do_work);
 
 app.get('/search/sports', search.do_ref);
 
+app.get('/search/sports/get_events', search.do_event); //this is for the ajax file
+
+app.get('/search/sports/get_season', search.do_season);
+
+app.get('/search/sports/get_sport', search.do_sport);
+
+app.post('/search/sports', search.sports_query); //post method defined for data transferred by user from sports.ejs page.
+
 app.get('/search/players', search.do_work);
 
 // Listen on the port we specify
