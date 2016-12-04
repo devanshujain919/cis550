@@ -1,13 +1,30 @@
 exports.analyse = function(req, res){
-	var name = "";
-	var country = "";
-	console.log(req.body.name);
-	console.log(req.body.country);
-	if(req.body.name){
-		name = req.body.name;
-	}
-	if(req.body.country){
-		country = req.body.country;
-	}	
-	var result = find_player(res, name, country);
+	res.render('analyse_players', {});
 };
+
+exports.get_data = function(req, res){
+	var player = '';
+	var country = '';
+	var sport = '';
+	var event = '';
+
+	if(req.body.player){
+		player = req.body.player;
+		if(req.body.country){
+			country = req.body.country;
+			if(req.body.sport){
+				sport = req.body.sport;
+				if(req.body.event){
+					event = req.body.event;
+				}
+			}
+		}
+	}
+	if(player == '' || country == ''){
+		res.send({is_error: true});
+	}
+	else{
+		//send_data(country, sport, event, res);
+	}
+
+}

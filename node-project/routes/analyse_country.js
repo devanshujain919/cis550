@@ -18,7 +18,7 @@ exports.get_data = function(req, res){
 	}
 
 	if(country == ''){
-		res.end({is_error: true});
+		res.send({is_error: true});
 	}
 	else{
 		send_data(country, sport, event, res);

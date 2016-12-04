@@ -2,6 +2,9 @@ $(document).ready(function(){
 
 	$('#query-form').validate({
 		rules: {
+			'name':{
+				required: true
+			},
 			'country': {
 				required: true
 			},
@@ -12,8 +15,11 @@ $(document).ready(function(){
 			}
 		},
 		messages: {
+			'name':{
+				required: 'Please input the Player\'s Name'
+			},
 			'country': {
-				required: 'Please input the Country'
+				required: 'Please input the Player\'s Country'
 			},
 			'event': {
 				required: 'Please input the Sporting Event'
@@ -30,7 +36,7 @@ $(document).ready(function(){
 		console.log(valuesToSubmit);
 		$.ajax({
 			type: "POST",
-			url: "/analyse/country/get-data",
+			url: "/analyse/player/get-data",
 			data: valuesToSubmit,
 			dataType: "JSON",
 			beforeSend: function() {
@@ -47,6 +53,7 @@ $(document).ready(function(){
 		});
 	};
 
+
 	$('#sport').on('change keyup paste', function(e){
 		console.log('hehh');
 		console.log(">>" + $('#sport').val().length + "<<<<<")
@@ -60,6 +67,40 @@ $(document).ready(function(){
 			});
 		}
 	});
+
+	$('#player').autocomplete({
+        source: function(req, res){
+            console.log("jello");
+            $.ajax({
+                data: {
+                    name: req.term,
+                },
+                dataType: 'json',
+                url: '/autocomplete-player',
+                type: 'GET',
+                success: function(data){
+                    if(data.length == 0){
+                		var result = [
+							{
+								label: 'No matches found', 
+								value: req.term
+							}
+						];
+						res(result);
+                	}
+                	else{
+	                    console.log(data);
+	                    var complete_data = [];
+	                    for(var i = 0 ; i < data.length ; i ++){
+	                        complete_data.push(data[i].Name);
+	                    }
+	                    res(complete_data);
+                   	}
+                }
+            });
+        },
+        minLength: 4
+    });
 
 	$('#country').autocomplete({
         source: function(req, res){
