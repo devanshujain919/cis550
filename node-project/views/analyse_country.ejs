@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <% include head %>
+        <link href="/stylesheets/analyse_country.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <header>
+            <% include header %>
+        </header>
+
+        <div id="main-content">
+            <div class="well">
+                <form class="form-group" id="query-form">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <label>Country</label>
+                            <input id="country" type="text" name="country" class="form-control">
+                        </div>
+                        <div class="col-md-3">
+                            <label>Sport</label>
+                            <input id="sport" type="text" name="sport" class="form-control">
+                        </div>
+                        <div class="col-md-4">
+                            <label>Event</label>
+                            <input id="event" type="text" name="event" class="form-control" disabled>
+                        </div>
+                        <div class="col-md-2">
+                            <br/>
+                            <input type="submit" value="Submit" class="btn btn-success btn-block" id="query-btn">
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <!-- TODO: Add Graphs and Tables -->
+        </div>
+
+        <footer>
+            <% include footer %>
+            <script src="/javascript/analyse_country.js"></script>
+        </footer>
+    </body>
+</html>

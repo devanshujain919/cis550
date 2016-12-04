@@ -19,6 +19,19 @@
   margin: 10px 0px 0px 15px;
 }
 
+.navbar-toggle{
+  background-color: #000000;
+}
+
+.navbar-toggle{
+  border-color: #ffffff;
+}
+
+.navbar-toggle .icon-bar{
+  background-color: #ffffff;
+  color: #ffffff;
+}
+
 .navbar-brand a:hover{
   text-decoration: none;
 }

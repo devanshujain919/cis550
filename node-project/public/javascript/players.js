@@ -42,7 +42,7 @@ $(document).ready(function(){
                     name: req.term,
                 },
                 dataType: 'json',
-                url: '/players/autocomplete-name',
+                url: '/autocomplete-player',
                 type: 'GET',
                 success: function(data){
                     console.log(data);
@@ -65,7 +65,7 @@ $(document).ready(function(){
                     country: req.term,
                 },
                 dataType: 'json',
-                url: '/players/autocomplete-country',
+                url: '/autocomplete-country',
                 type: 'GET',
                 success: function(data){
                     console.log(data);
