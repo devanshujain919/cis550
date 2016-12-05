@@ -87,16 +87,21 @@ send_data = function(country, from, to, res){
 		}
 		else {
 			var results = {
-				'stat': JSON.stringify(rows)
+				'stat': rows
 			};
-			sql = "SELECT * FROM Medal_Tally WHERE Country LIKE '" + country + "';";
+			if(from == '' || to ==''){
+				sql = "SELECT * FROM Medal_Tally WHERE Country LIKE '" + country + "';";
+			}
+			else{
+				sql = "SELECT * FROM Medal_Tally WHERE Country LIKE '" + country + "' AND Year >= " + from + " AND Year <= " + to + ";";
+			}
 			console.log(sql);
 			connection.query(sql, function(err, rows, fields){
 				if (err) {
 					console.log(err);
 				}
 				else {
-					results['result'] = JSON.stringify(rows)
+					results['result'] = rows
 					console.log(results);
 					res.send(results);
 				}
