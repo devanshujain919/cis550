@@ -38,3 +38,11 @@
 .ui-helper-hidden-accessible {
   display: none;
 }
+
+#chart svg {
+  width:100%;
+}
+
+#chart-region{
+  display: none;
+}

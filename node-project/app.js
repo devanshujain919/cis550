@@ -34,10 +34,11 @@ app.get('/autocomplete-sport', autocomplete.autocomplete_sport);
 app.get('/autocomplete-event', autocomplete.autocomplete_event);
 
 app.get('/analyse/country', analyse_country.analyse);
-app.get('/analyse/country/get-data', analyse_country.get_data);
 app.get('/analyse/players', analyse_players.analyse);
 app.get('/analyse/players/get-data', analyse_players.get_data);
 
+app.post('/analyse/country/get-data', analyse_country.get_data);
+app.post('/analyse/country/get-year-to', analyse_country.get_year_to);
 app.post('/search/players', search.query_players);
 app.post('/players', players_info.players_info);
 

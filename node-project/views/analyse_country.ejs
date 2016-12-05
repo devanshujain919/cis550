@@ -14,24 +14,51 @@
             <div class="well">
                 <form class="form-group" id="query-form">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-md-2">
+                        </div>
+                        <div class="col-md-4">
                             <label>Country</label>
                             <input id="country" type="text" name="country" class="form-control">
                         </div>
-                        <div class="col-md-3">
-                            <label>Sport</label>
-                            <input id="sport" type="text" name="sport" class="form-control">
+                        <div class="col-md-1">
+                            <label>From</label>
+                            <select class="form-control" id="from" name="from">
+                                <option value='0'></option>
+                                <% if(is_year_from) { %>
+                                    <% for(var i = 0 ; i < year_from.length ; i ++) { %>
+                                        <option value='<%= year_from[i].Year %>'><%= year_from[i].Year %></option>
+                                    <% } %>
+                                <% } %>
+                            </select>
                         </div>
-                        <div class="col-md-4">
-                            <label>Event</label>
-                            <input id="event" type="text" name="event" class="form-control" disabled>
+                        <div class="col-md-1">
+                            <label>To</label>
+                            <select class="form-control" id="to" name="to" disabled>
+                                <option value='0'></option>
+                            </select>
                         </div>
                         <div class="col-md-2">
                             <br/>
                             <input type="submit" value="Submit" class="btn btn-success btn-block" id="query-btn">
                         </div>
+                        <div class="col-md-2">
+                        </div>
                     </div>
                 </form>
+            </div>
+
+            <div class="col-lg-12" id="chart-region">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Line Chart Example
+                    </div>
+                    <!-- /.panel-heading -->
+                    <div class="panel-body">
+                        <div id="chart"></div>
+                    </div>
+                    <!-- /.panel-body -->
+                </div>
+                <!-- /.panel -->
             </div>
 
             <!-- TODO: Add Graphs and Tables -->
