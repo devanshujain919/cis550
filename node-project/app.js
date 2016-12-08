@@ -4,6 +4,7 @@
 var express = require('express')
   , routes = require('./routes/index')
   , search_players = require('./routes/search_players')
+  , search_sports = require('./routes/search_sports')
   , autocomplete = require('./routes/autocomplete')
   , players_info = require('./routes/players_info')
   , analyse_country = require('./routes/analyse_country')
@@ -32,6 +33,7 @@ app.get('/autocomplete-country', autocomplete.autocomplete_country);
 app.get('/autocomplete-sport', autocomplete.autocomplete_sport);
 app.get('/autocomplete-event', autocomplete.autocomplete_event);
 
+app.get('/search/sports', search_sports.do_ref);
 app.get('/analyse/country', analyse_country.analyse);
 app.get('/analyse/players', analyse_players.analyse);
 app.get('/analyse/players/get-data', analyse_players.get_data);
@@ -40,6 +42,11 @@ app.post('/analyse/country/get-data', analyse_country.get_data);
 app.post('/analyse/country/get-year-to', analyse_country.get_year_to);
 app.post('/search/players', search_players.query_players);
 app.post('/players', players_info.players_info);
+
+app.get('/search/sports/get_events', search_sports.do_event); //this is for the ajax file
+app.get('/search/sports/get_season', search_sports.do_season);
+app.get('/search/sports/get_sport', search_sports.do_sport);
+app.post('/search/sports', search_sports.sports_query); //post method defined for data transferred by user from sports.ejs page.
 
 // Listen on the port we specify
 http.createServer(app).listen(app.get('port'), function(){
