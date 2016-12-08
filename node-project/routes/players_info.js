@@ -3,6 +3,10 @@ function find_player(res, name, country){
 	console.log(name);
 	console.log(country);
 	collection.findOne({"_id.name": name, "_id.country": country}).then(function(result){
+		var mongo_check = true
+		if(result == null){
+			mongo_check = false
+		}
 		console.log(result);
 		var connection = require('../app').mysqlConnection;
 		var sql = "SELECT Year, Season, Sport, Event, medal FROM Athlete_won WHERE Name LIKE '" + name + "' AND Country LIKE '" + country + "';"
@@ -10,11 +14,11 @@ function find_player(res, name, country){
 		connection.query(sql, function(err, rows, fields){
 			if (err) {
 				console.log(err);
-				res.render('players_info', {mongo_result: result, is_mongo_result: true});
+				res.render('players_info', {mongo_result: result, is_mongo_result: mongo_check});
 			}
 			else {
 				console.log(rows);
-				res.render('players_info', {mongo_result: result, is_mongo_result: true, mysql_result: rows, is_mysql_result: true});
+				res.render('players_info', {mongo_result: result, is_mongo_result: mongo_check, mysql_result: rows, is_mysql_result: true});
 			}
 		});
 	});
