@@ -54,7 +54,7 @@ $(document).ready(function(){
                 }
             });
         },
-        minLength: 4
+        minLength: 3
     });
 
     $('#player-country').autocomplete({
@@ -77,7 +77,7 @@ $(document).ready(function(){
                 }
             });
         },
-        minLength: 4
+        minLength: 3
     });
 
 });
