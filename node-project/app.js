@@ -3,7 +3,7 @@
  */
 var express = require('express')
   , routes = require('./routes/index')
-  , search = require('./routes/search')
+  , search_players = require('./routes/search_players')
   , autocomplete = require('./routes/autocomplete')
   , players_info = require('./routes/players_info')
   , analyse_country = require('./routes/analyse_country')
@@ -26,8 +26,8 @@ init_app(app);
 
 app.get('/', routes.home);
 
-app.get('/search/sports', search.search_sports);
-app.get('/search/players', search.search_players);
+app.get('/search/sports', search_players.search_sports);
+app.get('/search/players', search_players.search_players);
 app.get('/autocomplete-player', autocomplete.autocomplete_player);
 app.get('/autocomplete-country', autocomplete.autocomplete_country);
 app.get('/autocomplete-sport', autocomplete.autocomplete_sport);
@@ -39,7 +39,7 @@ app.get('/analyse/players/get-data', analyse_players.get_data);
 
 app.post('/analyse/country/get-data', analyse_country.get_data);
 app.post('/analyse/country/get-year-to', analyse_country.get_year_to);
-app.post('/search/players', search.query_players);
+app.post('/search/players', search_players.query_players);
 app.post('/players', players_info.players_info);
 
 // Listen on the port we specify
