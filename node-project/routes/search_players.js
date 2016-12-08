@@ -28,7 +28,3 @@ exports.query_players = function(req, res){
 	}	
 	var result = find_players(res, name, country);
 };
-
-exports.search_sports = function(req, res){
-  res.render('sports', {});
-};

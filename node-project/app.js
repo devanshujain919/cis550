@@ -26,7 +26,6 @@ init_app(app);
 
 app.get('/', routes.home);
 
-app.get('/search/sports', search_players.search_sports);
 app.get('/search/players', search_players.search_players);
 app.get('/autocomplete-player', autocomplete.autocomplete_player);
 app.get('/autocomplete-country', autocomplete.autocomplete_country);
