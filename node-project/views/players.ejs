@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <% include head %>
+        <link href="/stylesheets/players.css" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <header>
+            <% include header %>
+        </header>
+
+        <div id="main-content">     
+            <div class="well">
+                <form action="/search/players" method="post" class="form-group" id="search-form">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <label>Player's Name</label>
+                            <input id="player-name" type="text" name="pname" class="form-control">
+                        </div>
+                        <div class="col-md-5">
+                            <label>Player's Country</label>
+                            <input id="player-country" type="text" name="pcountry" class="form-control">
+                        </div>
+                        <div class="col-md-2">
+                            <br/>
+                            <input type="submit" value="Submit" class="btn btn-success btn-block" id="search-btn">
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <% if (is_result) {%>
+            <div class="panel panel-default">
+                <table class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th class="col-md-6 text-center">Name</th>
+                        <th class="col-md-6 text-center">Country</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+
+                    <% for(var i=0; i < result.length; i++) { %>
+                        <tr class="clickable-row" data-name='<%= result[i].Name %>' data-country='<%= result[i].Country%>'>
+                            <td class="text-center"><%= result[i].Name %></td>
+                            <td class="text-center"><%= result[i].Country %></td>
+                            <td></td>
+                        </tr>
+                    <% } %>
+                    </tbody>
+                </table>
+            </div>
+            <% } %>
+            
+        </div>
+
+        <footer>
+            <% include footer %>
+            <script src="/javascript/players.js"></script>
+        </footer>
+
+    </body>
+</html>

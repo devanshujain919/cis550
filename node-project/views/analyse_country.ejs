@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <% include head %>
+        <link href="/stylesheets/analyse_country.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <header>
+            <% include header %>
+        </header>
+
+        <div id="main-content">
+            <div class="well">
+                <form class="form-group" id="query-form">
+                    <div class="row">
+                        <div class="col-md-2">
+                        </div>
+                        <div class="col-md-4">
+                            <label>Country</label>
+                            <input id="country" type="text" name="country" class="form-control">
+                        </div>
+                        <div class="col-md-1">
+                            <label>From</label>
+                            <select class="form-control" id="from" name="from">
+                                <option value='0'></option>
+                                <% if(is_year_from) { %>
+                                    <% for(var i = 0 ; i < year_from.length ; i ++) { %>
+                                        <option value='<%= year_from[i].Year %>'><%= year_from[i].Year %></option>
+                                    <% } %>
+                                <% } %>
+                            </select>
+                        </div>
+                        <div class="col-md-1">
+                            <label>To</label>
+                            <select class="form-control" id="to" name="to" disabled>
+                                <option value='0'></option>
+                            </select>
+                        </div>
+                        <div class="col-md-2">
+                            <br/>
+                            <input type="submit" value="Submit" class="btn btn-success btn-block" id="query-btn">
+                        </div>
+                        <div class="col-md-2">
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <div class="col-lg-12" id="chart-region">
+                <div class="panel panel-default" id="summer-chart-container">
+                    <div class="panel-heading text-center" id='summer-heading'>
+                        Summer Chart
+                    </div>
+                    <!-- /.panel-heading -->
+                    <div class="panel-body">
+                        <div id="summer-chart"></div>
+                    </div>
+                    <!-- /.panel-body -->
+                </div>
+                <div class="panel panel-default" id="winter-chart-container">
+                    <div class="panel-heading text-center" id='winter-heading'>
+                        Winter Chart
+                    </div>
+                    <!-- /.panel-heading -->
+                    <div class="panel-body">
+                        <div id="winter-chart"></div>
+                    </div>
+                    <!-- /.panel-body -->
+                </div>
+            </div>
+
+            <div class="container" id="country-table">
+                <div class="col-lg-1"></div>
+                <div class="col-lg-10">
+                    <div class="panel panel-default">
+                        <div class="panel-heading text-center" id="country-table-heading">
+                            Table for Country (Year, GDP, Population, Health)
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div id="country-gdp-table">
+                                <table class="table table-hover table-bordered table-striped text-center">
+                                    <thead>
+                                        <tr>
+                                            <th class="text-center">Year</th>
+                                            <th class="text-center">GDP</th>
+                                            <th class="text-center">Population</th>
+                                            <th class="text-center">Spending on Health</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>John</td>
+                                            <td>Doe</td>
+                                            <td>john@example.com</td>
+                                            <td>bahut sara</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Mary</td>
+                                            <td>Moe</td>
+                                            <td>mary@example.com</td>
+                                            <td>bahut kam</td>
+                                        </tr>
+                                        <tr>
+                                            <td>July</td>
+                                            <td>Dooley</td>
+                                            <td>july@example.com</td>
+                                            <td>theek thaak</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                </div>
+                <div class="col-lg-1"></div>
+            </div>
+        </div>
+
+        <footer>
+            <% include footer %>
+            <script src="/javascript/analyse_country.js"></script>
+        </footer>
+    </body>
+</html>

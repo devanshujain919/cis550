@@ -27,6 +27,7 @@ editions = {
 	45:'2002',
 	46:'2006',
 }
+
 info = {}
 
 for ed in editions.keys():

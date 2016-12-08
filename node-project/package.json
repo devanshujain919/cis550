@@ -6,8 +6,10 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "body-parser": "^1.15.2",
     "express": "^3.2.6",
     "jade-bootstrap": "*",
+    "mongodb": "^2.2.11",
     "mysql": "*",
     "nib": "*",
     "stylus": "*"

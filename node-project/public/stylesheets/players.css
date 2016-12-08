@@ -1,0 +1,44 @@
+/*#main-content{
+  padding: 60px 15px 0px 15px; 
+  margin: 0;
+  width: 100%;
+  border: none;
+}
+*/
+
+/* Sarath's changes */
+#main-content{
+  padding: 40px 20px 0px 20px; 
+  margin: 40px 0px 0px 0px;
+  border: none;
+}
+
+.clickable-row:hover{
+	cursor: pointer;
+}
+
+.ui-autocomplete {
+    position: absolute;
+    z-index: 1000;
+    cursor: pointer;
+    padding: 0;
+    margin-top: 2px;
+    list-style: none;
+    background-color: #ffffff;
+    border: 1px solid #ccc
+    -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+            border-radius: 5px;
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+       -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+.ui-autocomplete > li {
+  padding: 3px 20px;
+}
+.ui-autocomplete > li.ui-state-focus {
+  background-color: #DDD;
+}
+.ui-helper-hidden-accessible {
+  display: none;
+}

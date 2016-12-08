@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <% include head %>
+        <link href="/stylesheets/players_info.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <header>
+            <% include header %>
+        </header>
+
+        <div id="main-content">
+
+            <% if(is_mongo_result) {%>
+
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="panel panel-info">
+                                <div class="panel-heading">
+                                    <h4 class="text-center">Info</h4>
+                                </div>
+
+                                <ul class="list-group">
+                                    <% if("name" in mongo_result['_id']) {%>
+                                        <li class="list-group-item">
+                                            <span class="glyphicon glyphicon-user"></span>
+                                             <%= mongo_result['_id']['name'] %>
+                                        </li>                                                                       
+                                    <% } %>
+
+                                    <% if("Date of Birth (dd-mm-yyyy)" in mongo_result) {%>
+                                        <li class="list-group-item">
+                                            <span class="glyphicon glyphicon-calendar"></span>
+                                            <%= mongo_result['Date of Birth (dd-mm-yyyy)'] %>
+                                        </li> 
+                                    <% } %>
+
+                                    <% if("Occupation" in mongo_result) {%>
+                                        <li class="list-group-item">
+                                            <span class="glyphicon glyphicon-wrench"></span>
+                                            <% for (var i = 0 ; i < mongo_result.Occupation.length ; i++) { %>
+                                                <%= mongo_result.Occupation[i] %><br>
+                                            <% } %>
+                                        </li> 
+                                    <% } %>
+
+                                    <% if("country" in mongo_result['_id']) {%>
+                                        <li class="list-group-item">
+                                            <span class="glyphicon glyphicon-globe"></span>
+                                            <%= mongo_result['_id']['country'] %>
+                                        </li> 
+                                    <% } %>                             
+                                   
+                                </ul>
+                            </div>
+
+                            <div class="panel panel-info">
+                                <% if("Images" in mongo_result) {%>
+                                    <% for (var i = 0 ; i < mongo_result.Images.length ; i++) { %>
+                                        <img class="img-responsive" src='<%= mongo_result.Images[i] %>'>
+                                    <% } %>
+                                <% } %>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-8">
+                            <% if("info" in mongo_result) {%>
+                                <% if("summary" in mongo_result.info) {%>
+                                    <div class="panel panel-success">
+                                        <div class="panel-heading">
+                                            <h4 class="text-center">Summary</h4>
+                                        </div>
+                                        <div class="panel-body"><%=mongo_result.info.summary%></div>
+                                    </div>                        
+                                <% } %>
+                            <% } %>
+
+
+                            <% if("Participations" in mongo_result) {%>
+                                <div class="panel panel-success">
+                                    <div class="panel-heading">
+                                        <h4 class="text-center">Participations</h4>
+                                    </div>
+                                    <ul class="list-group">
+                                        <% for (var i = 0 ; i < mongo_result.Participations.length ; i++) { %>
+                                            <li class="list-group-item"><%= mongo_result.Participations[i] %></li>
+                                        <% } %>
+                                    </ul>                        
+                                </div>                     
+                            <% } %>
+
+                            <% if(is_mysql_result) { %>
+                                <div class="panel panel-success">
+                                <div class="panel-heading">
+                                    <h4 class="text-center">Olympic Results</h4>
+                                </div>   
+
+                                <table class="table table-striped">
+                                    <thead>
+                                    <tr>
+                                        <th class="col-md-2 text-center">Year</th>
+                                        <th class="col-md-2 text-center">Season</th>
+                                        <th class="col-md-2 text-center">Sport</th>
+                                        <th class="col-md-2 text-center">Event</th>
+                                        <th class="col-md-2 text-center">Medal</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>         
+                                    <% for(var i=0; i < mysql_result.length; i++) { %>
+                                        <tr>
+                                            <td class="text-center"><%= mysql_result[i].Year %></td>                   
+                                            <td class="text-center"><%= mysql_result[i].Season %></td>                           
+                                            <td class="text-center"><%= mysql_result[i].Sport %></td>                   
+                                            <td class="text-center"><%= mysql_result[i].Event %></td>                    
+                                            <td class="text-center"><%= mysql_result[i].medal %></td>
+                                        </tr>
+                                    <% } %>
+                                    </tbody>
+                                </table>
+                                </div>
+                            <% } %>
+
+                        </div>
+                    </div>
+                </div>
+              
+            <% } else {%>
+                <h1 class="text-center">No information available about this player.</h1>
+            <% } %>
+        </div>
+
+        <footer>
+            <% include footer %>
+            <script src="/javascript/players_info.js"></script>
+        </footer>
+    </body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <% include head %>
+        <link href="/stylesheets/analyse_players.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <header>
+            <% include header %>
+        </header>
+
+        <div id="main-content">
+            <div class="well">
+                <form class="form-group" id="query-form">
+                    <div class="row">
+                        <div class="col-md-1">
+                        </div>
+                        <div class="col-md-5">
+                            <label>Player's Name</label>
+                            <input id="player" type="text" name="country" class="form-control">
+                        </div>
+                        <div class="col-md-5">
+                            <label>Player's Country</label>
+                            <input id="country" type="text" name="country" class="form-control">
+                        </div>
+                        <div class="col-md-1">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-1">
+                        </div>
+                        <div class="col-md-5">
+                            <label>Sport</label>
+                            <input id="sport" type="text" name="sport" class="form-control">
+                        </div>
+                        <div class="col-md-5">
+                            <label>Event</label>
+                            <input id="event" type="text" name="event" class="form-control" disabled>
+                        </div>
+                        <div class="col-md-1">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                        </div>
+                        <div class="col-md-4">
+                            <br/>
+                            <input type="submit" value="Submit" class="btn btn-success btn-block" id="query-btn">
+                        </div>
+                        <div class="col-md-4">
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <!-- TODO: Add Graphs and Tables -->
+        </div>
+
+        <footer>
+            <% include footer %>
+            <script src="/javascript/analyse_players.js"></script>
+        </footer>
+    </body>
+</html>
