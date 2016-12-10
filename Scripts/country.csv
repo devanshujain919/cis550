@@ -70,6 +70,9 @@ Gabon,GAB
 Gambia,GAM
 Georgia,GEO
 Germany,GER
+German Democratic Republic,GDR
+Unified Team,EUN
+West Germany,FRG
 Ghana,GHA
 Greece,GRE
 Grenada,GRN
@@ -108,8 +111,19 @@ Libya,LBA
 Liechtenstein,LIE
 Lithuania,LTU
 Luxembourg,LUX
+Bohemia,BOH
+Australasia,ANZ
+Czechoslovakia,TCH
+Yugoslavia,YUG
 Macedonia,MKD
 Madagascar,MAD
+Soviet Union,URS
+Mixed Team,ZZX
+Russian Empire,RU1
+Independent Olympians,IOP
+West Indies Federation,BWI
+United States,EUA
+Romania,ROU
 Malawi,MAW
 Malaysia,MAS
 Maldives,MDV
@@ -159,7 +173,8 @@ San Marino,SMR
 Sao Tome and Principe,STP
 Saudi Arabia,KSA
 Senegal,SEN
-Serbia,SCG
+Serbia and Montenegro,SCG
+Serbia,SRB
 Seychelles,SEY
 Sierra Leone,SLE
 Singapore,SIN

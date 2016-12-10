@@ -9,13 +9,14 @@ with open('summer_Athlete_won.csv', 'rb') as csvfile:
 	reader = csv.reader(csvfile)
 	k = 0
 	for row in reader:
-		sql = "INSERT INTO Athlete_won (Year, Season, Sport, Event) VALUES ('" + row[0] + "','Summer','" + row[2] + "','" + row[3] + "');";
+		sql = "INSERT INTO Events (Year, Season, Sport, Event) VALUES (%s,%s,%s,%s);"
 		print(sql)
 		try:
-			cursor.execute(sql)
+			cursor.execute(sql, (row[0], 'Summer', row[2], row[3].decode('ISO-8859-1')))
 			db.commit()
+		except MySQLdb.IntegrityError as err:
+			print("Error: {}".format(err))
 		except Exception as e:
-			print e
-			continue
-		print(row[0] + "   " + row[1] + "   " + row[2] + "   " + row[3])
+			print(e)
+			exit()
 db.close()
