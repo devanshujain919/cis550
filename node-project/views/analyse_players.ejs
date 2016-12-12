@@ -12,17 +12,26 @@
 
         <div id="main-content">
             <div class="well">
+
+
                 <form class="form-group" id="query-form">
                     <div class="row">
                         <div class="col-md-1">
                         </div>
+
                         <div class="col-md-5">
                             <label>Player's Name</label>
-                            <input id="player" type="text" name="country" class="form-control">
+                            <input id="player" type="text" name="player" class="form-control">
                         </div>
-                        <div class="col-md-5">
+
+                            <div class="col-md-5">
+
                             <label>Player's Country</label>
-                            <input id="country" type="text" name="country" class="form-control">
+                            <select name="country" id="country" class="form-control" disabled>
+                            <option value=NULL></option>
+                            </select>
+
+
                         </div>
                         <div class="col-md-1">
                         </div>
@@ -31,12 +40,22 @@
                         <div class="col-md-1">
                         </div>
                         <div class="col-md-5">
+
+
                             <label>Sport</label>
-                            <input id="sport" type="text" name="sport" class="form-control">
+                            <select name="sport" id="sport" class="form-control" disabled>
+                            <option value=NULL></option>
+                            </select>
+
                         </div>
                         <div class="col-md-5">
+
+
                             <label>Event</label>
-                            <input id="event" type="text" name="event" class="form-control" disabled>
+                            <select name="events" id="events" class="form-control" disabled>
+                            <option value=NULL></option>
+                            </select>
+                            
                         </div>
                         <div class="col-md-1">
                         </div>
@@ -46,7 +65,9 @@
                         </div>
                         <div class="col-md-4">
                             <br/>
-                            <input type="submit" value="Submit" class="btn btn-success btn-block" id="query-btn">
+
+
+                            <input type="submit" value="Submit  Query" class="btn btn-success btn-block" id="query-btn">
                         </div>
                         <div class="col-md-4">
                         </div>
@@ -55,6 +76,19 @@
             </div>
 
             <!-- TODO: Add Graphs and Tables -->
+            <div class="col-lg-12" id="chart-region">
+                <div class="panel panel-default" id="player-chart-container">
+                    <div class="panel-heading text-center" id='player-heading' hidden>
+                        Player's Performance
+                    </div>
+                    
+                    <div class="panel-body">
+                        <div id="player-chart"></div>
+                    </div>
+            
+                </div>
+            </div>
+
         </div>
 
         <footer>

@@ -35,8 +35,13 @@ app.get('/autocomplete-event', autocomplete.autocomplete_event);
 
 app.get('/search/sports', search_sports.do_ref);
 app.get('/analyse/country', analyse_country.analyse);
+
 app.get('/analyse/players', analyse_players.analyse);
-app.get('/analyse/players/get-data', analyse_players.get_data);
+
+app.post('/analyse/players/get-data', analyse_players.get_data);
+app.get('/analyse/players/get-data-country', analyse_players.get_data_country);
+app.get('/analyse/players/get-data-sport', analyse_players.get_data_sport);
+app.get('/analyse/players/get-data-event', analyse_players.get_data_event);
 
 app.post('/analyse/country/get-data', analyse_country.get_data);
 app.post('/analyse/country/get-year-to', analyse_country.get_year_to);
