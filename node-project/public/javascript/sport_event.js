@@ -80,7 +80,7 @@ $(document).ready(function(){
 					type: 'GET',                       //app.get in app.js
 					success: function(data){		   
 						console.log(data);
-						var html='';
+						var html='<option value=NULL>-------</option>';
 						
 						for(var i=0;i<data.length;i++)
 						{	
