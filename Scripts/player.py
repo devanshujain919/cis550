@@ -102,12 +102,11 @@ with open('country.csv', 'rb') as csvfile:
 
 # print(country)
 
-with open('medalist.csv', 'rb') as csvfile:
+with open('athlete.csv', 'rb') as csvfile:
     reader = csv.reader(csvfile)
     for row in reader:
         try:
             player.append({'name':unicode(row[0], 'utf-8', errors='replace'), 'country':country[row[1]]})
-            
         except UnicodeDecodeError:
             print("Unicode Decoding Error Thrown" + str(row[0]))
             continue
