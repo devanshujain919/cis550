@@ -60,7 +60,8 @@ app.get('/search/sports/get_season', search_sports.do_season);
 app.get('/search/sports/get_sport', search_sports.do_sport);
 app.post('/search/sports', search_sports.sports_query); //post method defined for data transferred by user from sports.ejs page.
 
-app.post('/bing', bing.bing_search);
+app.post('/bing/search-sport', bing.bing_search_sport);
+app.post('/bing/search-player', bing.bing_search_player);
 
 require('./config/passport')(passport);
 require('./app/routes.js')(app, passport); // load our routes and pass in our app and fully configured passport
