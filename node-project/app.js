@@ -16,7 +16,13 @@ var express = require('express')
   , bodyParser = require('body-parser')
   , mongodb = require('mongodb')
   , mysql = require('mysql')
+  , passport = require('passport')
+  , mongoose = require('mongoose')
+  , session = require('express-session')
+  , flash = require('connect-flash')
+  , bing = require('./routes/bing')
 ;
+
 
 // Initialize express
 var app = express();
@@ -25,7 +31,8 @@ init_app(app);
 
 // When we get a request for {app}/ we should call routes/index.js
 
-app.get('/', routes.home);
+app.get('/', routes.login_index);
+app.get('/home', routes.home);
 
 app.get('/search/players', search_players.search_players);
 app.get('/autocomplete-player', autocomplete.autocomplete_player);
@@ -53,6 +60,12 @@ app.get('/search/sports/get_season', search_sports.do_season);
 app.get('/search/sports/get_sport', search_sports.do_sport);
 app.post('/search/sports', search_sports.sports_query); //post method defined for data transferred by user from sports.ejs page.
 
+app.post('/bing', bing.bing_search);
+
+require('./config/passport')(passport);
+require('./app/routes.js')(app, passport); // load our routes and pass in our app and fully configured passport
+
+
 // Listen on the port we specify
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));
@@ -77,10 +90,24 @@ function init_app() {
 	app.engine('html', require('ejs').renderFile);
 	app.set('view engine', 'ejs');
 
+	app.use(express.static(path.join(__dirname, 'public')));
+	app.use(express.bodyParser());
+
+	// required for passport
+	app.use(session({
+	    secret: 'olympediaproject', // session secret
+	    resave: true,
+	    saveUninitialized: true
+	}));
+	app.use(passport.initialize());
+	app.use(passport.session()); // persistent login sessions
+	app.use(flash()); // use connect-flash for flash messages stored in session
+
+
 	app.use(express.favicon());
 	// Set the express logger: log to the console in dev mode
 	app.use(express.logger('dev'));
-	app.use(express.bodyParser());
+	
 	app.use(express.methodOverride());
 	app.use(app.router);
 	// Use Stylus, which compiles .styl --> CSS
@@ -89,7 +116,7 @@ function init_app() {
 	  , compile: compile
 	  }
 	));
-	app.use(express.static(path.join(__dirname, 'public')));
+	
 
 	// development only
 	if ('development' == app.get('env')) {
@@ -109,6 +136,9 @@ function init_app() {
 			exports.mongoConnection = db;
 		}
 	});
+	
+	mongoose.connect(url); // connect to our database
+
 	var mysqlConnection;
 	exports.mysqlConnection = mysql.createConnection({
 		host     : 'cis550.cautcaubut2r.us-east-1.rds.amazonaws.com',
