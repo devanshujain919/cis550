@@ -1,15 +1,3 @@
-// Connect string to MySQL
-var mysql = require('mysql');
-
-var connection = mysql.createConnection({
-  host     : 'cis550.cautcaubut2r.us-east-1.rds.amazonaws.com',
-  user     : 'cis550_group14',
-  password : 'vrgp14&vra',
-  database : 'olympics'
-});
-
-
-
 exports.do_work = function(req, res){
   res.render('players', {});
 };
@@ -23,7 +11,7 @@ exports.sports_query = function(req, res){
 };
 
 exports.do_event = function(req, res){
-  	get_event(res,req.query.sport);   // .query.sport because data is sent by GET method
+  	get_event(res, req.query.sport, req.query.season, req.query.edition);   // .query.sport because data is sent by GET method
 };
 
 exports.do_season = function(req, res){
@@ -34,9 +22,10 @@ exports.do_sport = function(req, res){
   	get_sport(res,req.query.edition,req.query.season);   // .query.edition because data is sent by GET method
 };
 
-function get_event(res, sport){
+function get_event(res, sport, season, edition){
 		var connection = require('../app').mysqlConnection;
-		var query="SELECT distinct Event From Athlete_won where Sport='" + sport +"' ;";
+		var query="SELECT distinct Event From Athlete_won where Sport='" + sport +"' and Year=" + edition + " and Season= '" + season + "';";
+		console.log(query);
 		connection.query(query, function(err, rows, fields) {
 			if (err) {
 				console.log(err);	

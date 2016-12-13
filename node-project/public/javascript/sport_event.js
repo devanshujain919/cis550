@@ -1,41 +1,6 @@
 $(document).ready(function(){
 		console.log("hello");
-		$('#sport').on('change',function(e){
-			console.log($('#sport').val());
-
-			$.ajax({
-					data: {	sport:$('#sport').val() }, //binding data to sports value selected
-					dataType: 'json',                  //defining the type of data expected by the ajax to come back
-					url:'/search/sports/get_events',   //correspons to app.js file
-					type: 'GET',                       //app.get in app.js
-					success: function(data){		   
-						console.log(data);
-						var html='';
-						var j=0;
-						for(var i=0;i<data.length;i++)
-						{	
-							if(j==0)
-							{
-								html+='<option value=NULL> ------------ </option>';
-								j++;
-							}
-							
-							html+='<option value="'+ data[i].Event +'">'+ data[i].Event + '</option>';
-						}
-						$('#event')
-    					.find('option')
-    					.remove()
-    					.end()
-    					.append(html);
-    					//.val('whatever')
-
-					}
-
-
-			})
-
-
-		});
+		
 
 
 		$('#edition').on('change',function(e){
@@ -88,6 +53,45 @@ $(document).ready(function(){
 							html+='<option value="'+ data[i].Sport +'">'+ data[i].Sport + '</option>';
 						}
 						$('#sport')
+    					.find('option')
+    					.remove()
+    					.end()
+    					.append(html);
+    					//.val('whatever')
+
+					}
+
+
+			})
+
+
+		});
+
+
+
+		$('#sport').on('change',function(e){
+			console.log($('#sport').val());
+
+			$.ajax({
+					data: {	season:$('#season').val(), edition:$('#edition').val(), sport:$('#sport').val() }, //binding data to sports value selected
+					dataType: 'json',                  //defining the type of data expected by the ajax to come back
+					url:'/search/sports/get_events',   //correspons to app.js file
+					type: 'GET',                       //app.get in app.js
+					success: function(data){		   
+						console.log(data);
+						var html='';
+						var j=0;
+						for(var i=0;i<data.length;i++)
+						{	
+							if(j==0)
+							{
+								html+='<option value=NULL> ------------ </option>';
+								j++;
+							}
+							
+							html+='<option value="'+ data[i].Event +'">'+ data[i].Event + '</option>';
+						}
+						$('#event')
     					.find('option')
     					.remove()
     					.end()
